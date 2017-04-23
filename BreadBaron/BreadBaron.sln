@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{99CBEE5D-5D81-C524-5377-0E3052360702}") = "BreadBaron", "Assembly-CSharp-firstpass.csproj", "{97141C51-0BBF-6E70-C164-BF672C0837A3}"
+EndProject
+Project("{99CBEE5D-5D81-C524-5377-0E3052360702}") = "BreadBaron", "Assembly-CSharp.csproj", "{3C4EB159-5EFA-DDC4-4FE3-0669BC1BE11C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{97141C51-0BBF-6E70-C164-BF672C0837A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97141C51-0BBF-6E70-C164-BF672C0837A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97141C51-0BBF-6E70-C164-BF672C0837A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97141C51-0BBF-6E70-C164-BF672C0837A3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3C4EB159-5EFA-DDC4-4FE3-0669BC1BE11C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C4EB159-5EFA-DDC4-4FE3-0669BC1BE11C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C4EB159-5EFA-DDC4-4FE3-0669BC1BE11C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C4EB159-5EFA-DDC4-4FE3-0669BC1BE11C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,143 @@
+fileFormatVersion: 2
+guid: 4672eb8a07c8d7043a94935676fd186f
+timeCreated: 1491411010
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: BreadBaron_Cane:pCylinder1
+    100002: //RootNode
+    100004: joint1
+    100006: joint1 1
+    100008: joint2
+    100010: joint2 1
+    100012: joint3
+    100014: joint3 1
+    100016: L_ankle
+    100018: L_clav
+    100020: L_elbow
+    100022: L_foot
+    100024: L_knee
+    100026: L_leg
+    100028: L_shoulder
+    100030: L_toe
+    100032: L_wrist
+    100034: R_ankle
+    100036: R_clav
+    100038: R_elbow
+    100040: R_foot
+    100042: R_knee
+    100044: R_leg
+    100046: R_shoulder
+    100048: R_toe
+    100050: R_wrist
+    100052: Root
+    100054: Spine1
+    100056: Spine2
+    100058: Spine3
+    100060: Spine4
+    400000: BreadBaron_Cane:pCylinder1
+    400002: //RootNode
+    400004: joint1
+    400006: joint1 1
+    400008: joint2
+    400010: joint2 1
+    400012: joint3
+    400014: joint3 1
+    400016: L_ankle
+    400018: L_clav
+    400020: L_elbow
+    400022: L_foot
+    400024: L_knee
+    400026: L_leg
+    400028: L_shoulder
+    400030: L_toe
+    400032: L_wrist
+    400034: R_ankle
+    400036: R_clav
+    400038: R_elbow
+    400040: R_foot
+    400042: R_knee
+    400044: R_leg
+    400046: R_shoulder
+    400048: R_toe
+    400050: R_wrist
+    400052: Root
+    400054: Spine1
+    400056: Spine2
+    400058: Spine3
+    400060: Spine4
+    2300000: BreadBaron_Cane:pCylinder1
+    3300000: BreadBaron_Cane:pCylinder1
+    4300000: BreadBaron_Cane:pCylinder1
+    7400000: Take 001
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 1
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: Root
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {fileID: 9000000, guid: b8288b54ab2badd4d99c2f6b9e6d7001,
+    type: 3}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

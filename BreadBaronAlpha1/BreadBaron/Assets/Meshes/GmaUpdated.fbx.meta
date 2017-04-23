@@ -1,0 +1,633 @@
+fileFormatVersion: 2
+guid: 027fb8250f406984388394994df7d6aa
+timeCreated: 1492055511
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: BreadBaron_Cane:pCylinder1
+    100002: BreadBaron_Mace2:group
+    100004: BreadBaron_Mace2:group1
+    100006: BreadBaron_Mace2:group2
+    100008: BreadBaron_Mace2:group3
+    100010: BreadBaron_Mace2:group4
+    100012: BreadBaron_Mace2:pasted__group
+    100014: BreadBaron_Mace2:pasted__group1
+    100016: BreadBaron_Mace2:pasted__group1 1
+    100018: BreadBaron_Mace2:pasted__pasted__group
+    100020: BreadBaron_Mace2:pasted__pasted__group 1
+    100022: BreadBaron_Mace2:pasted__pasted__pasted__pCylinder2
+    100024: BreadBaron_Mace2:pasted__pasted__pasted__pCylinder2 1
+    100026: BreadBaron_Mace2:pasted__pasted__pCylinder2
+    100028: BreadBaron_Mace2:pasted__pCylinder2
+    100030: BreadBaron_Mace2:pCylinder1
+    100032: BreadBaron_Mace2:pCylinder2
+    100034: BreadBaron_Mace2:pCylinder3
+    100036: BreadBaron_Mace2:pCylinder4
+    100038: BreadBaron_Mace2:pCylinder5
+    100040: BreadBaron_Mace2:transform1
+    100042: BreadBaron_Mace2:transform2
+    100044: BreadBaron_Mace2:transform3
+    100046: BreadBaron_Mace2:transform4
+    100048: BreadBaron_Mace2:transform5
+    100050: BreadBaron_Mace2:transform6
+    100052: BreadBaron_Mace2:transform7
+    100054: BreadBaron_Mace2:transform8
+    100056: BreadBaron_Mace2:transform9
+    100058: //RootNode
+    100060: group2
+    100062: group4
+    100064: group6
+    100066: joint1
+    100068: joint1 1
+    100070: joint2
+    100072: joint2 1
+    100074: joint3
+    100076: joint3 1
+    100078: L_ankle
+    100080: L_clav
+    100082: L_elbow
+    100084: L_foot
+    100086: L_knee
+    100088: L_leg
+    100090: L_shoulder
+    100092: L_toe
+    100094: L_wrist
+    100096: modelMesh
+    100098: polySurface1
+    100100: polySurface1 1
+    100102: polySurface10
+    100104: polySurface11
+    100106: polySurface12
+    100108: polySurface13
+    100110: polySurface14
+    100112: polySurface15
+    100114: polySurface16
+    100116: polySurface17
+    100118: polySurface18
+    100120: polySurface19
+    100122: polySurface2
+    100124: polySurface20
+    100126: polySurface21
+    100128: polySurface22
+    100130: polySurface23
+    100132: polySurface24
+    100134: polySurface25
+    100136: polySurface26
+    100138: polySurface27
+    100140: polySurface28
+    100142: polySurface29
+    100144: polySurface3
+    100146: polySurface30
+    100148: polySurface31
+    100150: polySurface32
+    100152: polySurface33
+    100154: polySurface4
+    100156: polySurface5
+    100158: polySurface6
+    100160: polySurface7
+    100162: polySurface8
+    100164: polySurface9
+    100166: R_ankle
+    100168: R_clav
+    100170: R_elbow
+    100172: R_foot
+    100174: R_knee
+    100176: R_leg
+    100178: R_shoulder
+    100180: R_toe
+    100182: R_wrist
+    100184: Root
+    100186: Spine1
+    100188: Spine2
+    100190: Spine3
+    100192: Spine4
+    100194: transform1
+    100196: transform10
+    100198: transform11
+    100200: transform12
+    100202: transform13
+    100204: transform14
+    100206: transform15
+    100208: transform16
+    100210: transform17
+    100212: transform18
+    100214: transform19
+    100216: transform2
+    100218: transform20
+    100220: transform21
+    100222: transform22
+    100224: transform23
+    100226: transform24
+    100228: transform25
+    100230: transform26
+    100232: transform27
+    100234: transform28
+    100236: transform29
+    100238: transform3
+    100240: transform30
+    100242: transform31
+    100244: transform32
+    100246: transform33
+    100248: transform4
+    100250: transform5
+    100252: transform6
+    100254: transform7
+    100256: transform8
+    100258: transform9
+    400000: BreadBaron_Cane:pCylinder1
+    400002: BreadBaron_Mace2:group
+    400004: BreadBaron_Mace2:group1
+    400006: BreadBaron_Mace2:group2
+    400008: BreadBaron_Mace2:group3
+    400010: BreadBaron_Mace2:group4
+    400012: BreadBaron_Mace2:pasted__group
+    400014: BreadBaron_Mace2:pasted__group1
+    400016: BreadBaron_Mace2:pasted__group1 1
+    400018: BreadBaron_Mace2:pasted__pasted__group
+    400020: BreadBaron_Mace2:pasted__pasted__group 1
+    400022: BreadBaron_Mace2:pasted__pasted__pasted__pCylinder2
+    400024: BreadBaron_Mace2:pasted__pasted__pasted__pCylinder2 1
+    400026: BreadBaron_Mace2:pasted__pasted__pCylinder2
+    400028: BreadBaron_Mace2:pasted__pCylinder2
+    400030: BreadBaron_Mace2:pCylinder1
+    400032: BreadBaron_Mace2:pCylinder2
+    400034: BreadBaron_Mace2:pCylinder3
+    400036: BreadBaron_Mace2:pCylinder4
+    400038: BreadBaron_Mace2:pCylinder5
+    400040: BreadBaron_Mace2:transform1
+    400042: BreadBaron_Mace2:transform2
+    400044: BreadBaron_Mace2:transform3
+    400046: BreadBaron_Mace2:transform4
+    400048: BreadBaron_Mace2:transform5
+    400050: BreadBaron_Mace2:transform6
+    400052: BreadBaron_Mace2:transform7
+    400054: BreadBaron_Mace2:transform8
+    400056: BreadBaron_Mace2:transform9
+    400058: //RootNode
+    400060: group2
+    400062: group4
+    400064: group6
+    400066: joint1
+    400068: joint1 1
+    400070: joint2
+    400072: joint2 1
+    400074: joint3
+    400076: joint3 1
+    400078: L_ankle
+    400080: L_clav
+    400082: L_elbow
+    400084: L_foot
+    400086: L_knee
+    400088: L_leg
+    400090: L_shoulder
+    400092: L_toe
+    400094: L_wrist
+    400096: modelMesh
+    400098: polySurface1
+    400100: polySurface1 1
+    400102: polySurface10
+    400104: polySurface11
+    400106: polySurface12
+    400108: polySurface13
+    400110: polySurface14
+    400112: polySurface15
+    400114: polySurface16
+    400116: polySurface17
+    400118: polySurface18
+    400120: polySurface19
+    400122: polySurface2
+    400124: polySurface20
+    400126: polySurface21
+    400128: polySurface22
+    400130: polySurface23
+    400132: polySurface24
+    400134: polySurface25
+    400136: polySurface26
+    400138: polySurface27
+    400140: polySurface28
+    400142: polySurface29
+    400144: polySurface3
+    400146: polySurface30
+    400148: polySurface31
+    400150: polySurface32
+    400152: polySurface33
+    400154: polySurface4
+    400156: polySurface5
+    400158: polySurface6
+    400160: polySurface7
+    400162: polySurface8
+    400164: polySurface9
+    400166: R_ankle
+    400168: R_clav
+    400170: R_elbow
+    400172: R_foot
+    400174: R_knee
+    400176: R_leg
+    400178: R_shoulder
+    400180: R_toe
+    400182: R_wrist
+    400184: Root
+    400186: Spine1
+    400188: Spine2
+    400190: Spine3
+    400192: Spine4
+    400194: transform1
+    400196: transform10
+    400198: transform11
+    400200: transform12
+    400202: transform13
+    400204: transform14
+    400206: transform15
+    400208: transform16
+    400210: transform17
+    400212: transform18
+    400214: transform19
+    400216: transform2
+    400218: transform20
+    400220: transform21
+    400222: transform22
+    400224: transform23
+    400226: transform24
+    400228: transform25
+    400230: transform26
+    400232: transform27
+    400234: transform28
+    400236: transform29
+    400238: transform3
+    400240: transform30
+    400242: transform31
+    400244: transform32
+    400246: transform33
+    400248: transform4
+    400250: transform5
+    400252: transform6
+    400254: transform7
+    400256: transform8
+    400258: transform9
+    2300000: BreadBaron_Cane:pCylinder1
+    3300000: BreadBaron_Cane:pCylinder1
+    4300000: BreadBaron_Cane:pCylinder1
+    4300002: polySurface33
+    7400000: Idle
+    9500000: //RootNode
+    13700000: polySurface33
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Idle
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 24
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 1
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: BreadBaron_Mace2:group
+        weight: 1
+      - path: BreadBaron_Mace2:group1
+        weight: 1
+      - path: BreadBaron_Mace2:group1/BreadBaron_Mace2:pasted__group
+        weight: 1
+      - path: BreadBaron_Mace2:group1/BreadBaron_Mace2:pasted__group/BreadBaron_Mace2:pasted__pasted__pCylinder2
+        weight: 1
+      - path: BreadBaron_Mace2:group1/BreadBaron_Mace2:pasted__group/BreadBaron_Mace2:pasted__pasted__pCylinder2/BreadBaron_Mace2:transform8
+        weight: 1
+      - path: BreadBaron_Mace2:group2
+        weight: 1
+      - path: BreadBaron_Mace2:group2/BreadBaron_Mace2:pasted__group1
+        weight: 1
+      - path: BreadBaron_Mace2:group2/BreadBaron_Mace2:pasted__group1/BreadBaron_Mace2:pasted__pasted__group
+        weight: 1
+      - path: BreadBaron_Mace2:group2/BreadBaron_Mace2:pasted__group1/BreadBaron_Mace2:pasted__pasted__group/BreadBaron_Mace2:pasted__pasted__pasted__pCylinder2
+        weight: 1
+      - path: BreadBaron_Mace2:group2/BreadBaron_Mace2:pasted__group1/BreadBaron_Mace2:pasted__pasted__group/BreadBaron_Mace2:pasted__pasted__pasted__pCylinder2/BreadBaron_Mace2:transform1
+        weight: 1
+      - path: BreadBaron_Mace2:group3
+        weight: 1
+      - path: BreadBaron_Mace2:group3/BreadBaron_Mace2:pasted__group1 1
+        weight: 1
+      - path: BreadBaron_Mace2:group3/BreadBaron_Mace2:pasted__group1 1/BreadBaron_Mace2:pasted__pasted__group
+          1
+        weight: 1
+      - path: BreadBaron_Mace2:group3/BreadBaron_Mace2:pasted__group1 1/BreadBaron_Mace2:pasted__pasted__group
+          1/BreadBaron_Mace2:pasted__pasted__pasted__pCylinder2 1
+        weight: 1
+      - path: BreadBaron_Mace2:group3/BreadBaron_Mace2:pasted__group1 1/BreadBaron_Mace2:pasted__pasted__group
+          1/BreadBaron_Mace2:pasted__pasted__pasted__pCylinder2 1/BreadBaron_Mace2:transform3
+        weight: 1
+      - path: BreadBaron_Mace2:group4
+        weight: 1
+      - path: BreadBaron_Mace2:group4/BreadBaron_Mace2:pasted__pCylinder2
+        weight: 1
+      - path: BreadBaron_Mace2:group4/BreadBaron_Mace2:pasted__pCylinder2/BreadBaron_Mace2:transform6
+        weight: 1
+      - path: BreadBaron_Mace2:pCylinder1
+        weight: 1
+      - path: BreadBaron_Mace2:pCylinder1/BreadBaron_Mace2:transform7
+        weight: 1
+      - path: BreadBaron_Mace2:pCylinder2
+        weight: 1
+      - path: BreadBaron_Mace2:pCylinder2/BreadBaron_Mace2:transform2
+        weight: 1
+      - path: BreadBaron_Mace2:pCylinder3
+        weight: 1
+      - path: BreadBaron_Mace2:pCylinder3/BreadBaron_Mace2:transform9
+        weight: 1
+      - path: BreadBaron_Mace2:pCylinder4
+        weight: 1
+      - path: BreadBaron_Mace2:pCylinder4/BreadBaron_Mace2:transform4
+        weight: 1
+      - path: BreadBaron_Mace2:pCylinder5
+        weight: 1
+      - path: BreadBaron_Mace2:pCylinder5/BreadBaron_Mace2:transform5
+        weight: 1
+      - path: group2
+        weight: 1
+      - path: group4
+        weight: 1
+      - path: group6
+        weight: 1
+      - path: modelMesh
+        weight: 1
+      - path: modelMesh/polySurface1 1
+        weight: 1
+      - path: modelMesh/polySurface1 1/transform16
+        weight: 1
+      - path: modelMesh/polySurface2
+        weight: 1
+      - path: modelMesh/polySurface2/transform15
+        weight: 1
+      - path: modelMesh/polySurface3
+        weight: 1
+      - path: modelMesh/polySurface3/transform14
+        weight: 1
+      - path: modelMesh/polySurface4
+        weight: 1
+      - path: modelMesh/polySurface4/transform13
+        weight: 1
+      - path: modelMesh/polySurface5
+        weight: 1
+      - path: modelMesh/polySurface5/transform12
+        weight: 1
+      - path: modelMesh/polySurface6
+        weight: 1
+      - path: modelMesh/polySurface6/transform11
+        weight: 1
+      - path: modelMesh/polySurface7
+        weight: 1
+      - path: modelMesh/polySurface7/transform10
+        weight: 1
+      - path: modelMesh/polySurface8
+        weight: 1
+      - path: modelMesh/polySurface8/transform9
+        weight: 1
+      - path: modelMesh/polySurface9
+        weight: 1
+      - path: modelMesh/polySurface9/transform8
+        weight: 1
+      - path: modelMesh/polySurface10
+        weight: 1
+      - path: modelMesh/polySurface10/transform7
+        weight: 1
+      - path: modelMesh/polySurface11
+        weight: 1
+      - path: modelMesh/polySurface11/transform6
+        weight: 1
+      - path: modelMesh/polySurface12
+        weight: 1
+      - path: modelMesh/polySurface12/transform5
+        weight: 1
+      - path: modelMesh/polySurface13
+        weight: 1
+      - path: modelMesh/polySurface13/transform4
+        weight: 1
+      - path: modelMesh/polySurface14
+        weight: 1
+      - path: modelMesh/polySurface14/transform3
+        weight: 1
+      - path: modelMesh/polySurface15
+        weight: 1
+      - path: modelMesh/polySurface15/transform2
+        weight: 1
+      - path: modelMesh/polySurface16
+        weight: 1
+      - path: modelMesh/polySurface16/transform1
+        weight: 1
+      - path: polySurface1
+        weight: 1
+      - path: polySurface1/polySurface17
+        weight: 1
+      - path: polySurface1/polySurface17/transform33
+        weight: 1
+      - path: polySurface1/polySurface18
+        weight: 1
+      - path: polySurface1/polySurface18/transform32
+        weight: 1
+      - path: polySurface1/polySurface19
+        weight: 1
+      - path: polySurface1/polySurface19/transform31
+        weight: 1
+      - path: polySurface1/polySurface20
+        weight: 1
+      - path: polySurface1/polySurface20/transform30
+        weight: 1
+      - path: polySurface1/polySurface21
+        weight: 1
+      - path: polySurface1/polySurface21/transform29
+        weight: 1
+      - path: polySurface1/polySurface22
+        weight: 1
+      - path: polySurface1/polySurface22/transform28
+        weight: 1
+      - path: polySurface1/polySurface23
+        weight: 1
+      - path: polySurface1/polySurface23/transform27
+        weight: 1
+      - path: polySurface1/polySurface24
+        weight: 1
+      - path: polySurface1/polySurface24/transform26
+        weight: 1
+      - path: polySurface1/polySurface25
+        weight: 1
+      - path: polySurface1/polySurface25/transform25
+        weight: 1
+      - path: polySurface1/polySurface26
+        weight: 1
+      - path: polySurface1/polySurface26/transform24
+        weight: 1
+      - path: polySurface1/polySurface27
+        weight: 1
+      - path: polySurface1/polySurface27/transform23
+        weight: 1
+      - path: polySurface1/polySurface28
+        weight: 1
+      - path: polySurface1/polySurface28/transform22
+        weight: 1
+      - path: polySurface1/polySurface29
+        weight: 1
+      - path: polySurface1/polySurface29/transform21
+        weight: 1
+      - path: polySurface1/polySurface30
+        weight: 1
+      - path: polySurface1/polySurface30/transform20
+        weight: 1
+      - path: polySurface1/polySurface31
+        weight: 1
+      - path: polySurface1/polySurface31/transform19
+        weight: 1
+      - path: polySurface1/polySurface32
+        weight: 1
+      - path: polySurface1/polySurface32/transform18
+        weight: 1
+      - path: polySurface1/transform17
+        weight: 1
+      - path: polySurface33
+        weight: 1
+      - path: Root
+        weight: 1
+      - path: Root/L_leg
+        weight: 1
+      - path: Root/L_leg/joint3
+        weight: 1
+      - path: Root/L_leg/joint3/L_knee
+        weight: 1
+      - path: Root/L_leg/joint3/L_knee/L_ankle
+        weight: 1
+      - path: Root/L_leg/joint3/L_knee/L_ankle/L_foot
+        weight: 1
+      - path: Root/L_leg/joint3/L_knee/L_ankle/L_foot/L_toe
+        weight: 1
+      - path: Root/R_leg
+        weight: 1
+      - path: Root/R_leg/joint3 1
+        weight: 1
+      - path: Root/R_leg/joint3 1/R_knee
+        weight: 1
+      - path: Root/R_leg/joint3 1/R_knee/R_ankle
+        weight: 1
+      - path: Root/R_leg/joint3 1/R_knee/R_ankle/R_foot
+        weight: 1
+      - path: Root/R_leg/joint3 1/R_knee/R_ankle/R_foot/R_toe
+        weight: 1
+      - path: Root/Spine1
+        weight: 1
+      - path: Root/Spine1/Spine2
+        weight: 1
+      - path: Root/Spine1/Spine2/L_clav
+        weight: 1
+      - path: Root/Spine1/Spine2/L_clav/L_shoulder
+        weight: 1
+      - path: Root/Spine1/Spine2/L_clav/L_shoulder/joint1
+        weight: 1
+      - path: Root/Spine1/Spine2/L_clav/L_shoulder/joint1/L_elbow
+        weight: 1
+      - path: Root/Spine1/Spine2/L_clav/L_shoulder/joint1/L_elbow/joint2
+        weight: 1
+      - path: Root/Spine1/Spine2/L_clav/L_shoulder/joint1/L_elbow/joint2/L_wrist
+        weight: 1
+      - path: Root/Spine1/Spine2/R_clav
+        weight: 1
+      - path: Root/Spine1/Spine2/R_clav/R_shoulder
+        weight: 1
+      - path: Root/Spine1/Spine2/R_clav/R_shoulder/joint1 1
+        weight: 1
+      - path: Root/Spine1/Spine2/R_clav/R_shoulder/joint1 1/R_elbow
+        weight: 1
+      - path: Root/Spine1/Spine2/R_clav/R_shoulder/joint1 1/R_elbow/joint2 1
+        weight: 1
+      - path: Root/Spine1/Spine2/R_clav/R_shoulder/joint1 1/R_elbow/joint2 1/R_wrist
+        weight: 1
+      - path: Root/Spine1/Spine2/R_clav/R_shoulder/joint1 1/R_elbow/joint2 1/R_wrist/BreadBaron_Cane:pCylinder1
+        weight: 1
+      - path: Root/Spine1/Spine2/Spine3
+        weight: 1
+      - path: Root/Spine1/Spine2/Spine3/Spine4
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

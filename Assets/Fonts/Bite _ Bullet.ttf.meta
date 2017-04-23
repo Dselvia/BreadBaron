@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: dd40516bbe172924a85a7994280b453c
+timeCreated: 1490326195
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Bite _ Bullet
+  fontNames:
+  - Bite _ Bullet
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

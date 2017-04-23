@@ -1,0 +1,208 @@
+fileFormatVersion: 2
+guid: 96fe4b18958d5b24d90b18c2e7b95d4c
+timeCreated: 1491361103
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: BreadBaron_Cane:pCylinder1
+    100002: //RootNode
+    100004: BreadBaron_Mace2:group
+    100006: BreadBaron_Mace2:group1
+    100008: BreadBaron_Mace2:group2
+    100010: BreadBaron_Mace2:group3
+    100012: BreadBaron_Mace2:group4
+    100014: BreadBaron_Mace2:pasted__group
+    100016: BreadBaron_Mace2:pasted__group1
+    100018: BreadBaron_Mace2:pasted__group1 1
+    100020: BreadBaron_Mace2:pasted__pasted__group
+    100022: BreadBaron_Mace2:pasted__pasted__group 1
+    100024: BreadBaron_Mace2:pasted__pasted__pasted__pCylinder2
+    100026: BreadBaron_Mace2:pasted__pasted__pasted__pCylinder2 1
+    100028: BreadBaron_Mace2:pasted__pasted__pCylinder2
+    100030: BreadBaron_Mace2:pasted__pCylinder2
+    100032: BreadBaron_Mace2:pCylinder1
+    100034: BreadBaron_Mace2:pCylinder2
+    100036: BreadBaron_Mace2:pCylinder3
+    100038: BreadBaron_Mace2:pCylinder4
+    100040: BreadBaron_Mace2:pCylinder5
+    100042: BreadBaron_Mace2:transform1
+    100044: BreadBaron_Mace2:transform2
+    100046: BreadBaron_Mace2:transform3
+    100048: BreadBaron_Mace2:transform4
+    100050: BreadBaron_Mace2:transform5
+    100052: BreadBaron_Mace2:transform6
+    100054: BreadBaron_Mace2:transform7
+    100056: BreadBaron_Mace2:transform8
+    100058: BreadBaron_Mace2:transform9
+    100060: group2
+    100062: group4
+    100064: group6
+    100066: joint1
+    100068: joint1 1
+    100070: joint2
+    100072: joint2 1
+    100074: joint3
+    100076: joint3 1
+    100078: L_ankle
+    100080: L_clav
+    100082: L_elbow
+    100084: L_foot
+    100086: L_knee
+    100088: L_leg
+    100090: L_shoulder
+    100092: L_toe
+    100094: L_wrist
+    100096: modelMesh
+    100098: R_ankle
+    100100: R_clav
+    100102: R_elbow
+    100104: R_foot
+    100106: R_knee
+    100108: R_leg
+    100110: R_shoulder
+    100112: R_toe
+    100114: R_wrist
+    100116: Root
+    100118: Spine1
+    100120: Spine2
+    100122: Spine3
+    100124: Spine4
+    400000: BreadBaron_Cane:pCylinder1
+    400002: //RootNode
+    400004: BreadBaron_Mace2:group
+    400006: BreadBaron_Mace2:group1
+    400008: BreadBaron_Mace2:group2
+    400010: BreadBaron_Mace2:group3
+    400012: BreadBaron_Mace2:group4
+    400014: BreadBaron_Mace2:pasted__group
+    400016: BreadBaron_Mace2:pasted__group1
+    400018: BreadBaron_Mace2:pasted__group1 1
+    400020: BreadBaron_Mace2:pasted__pasted__group
+    400022: BreadBaron_Mace2:pasted__pasted__group 1
+    400024: BreadBaron_Mace2:pasted__pasted__pasted__pCylinder2
+    400026: BreadBaron_Mace2:pasted__pasted__pasted__pCylinder2 1
+    400028: BreadBaron_Mace2:pasted__pasted__pCylinder2
+    400030: BreadBaron_Mace2:pasted__pCylinder2
+    400032: BreadBaron_Mace2:pCylinder1
+    400034: BreadBaron_Mace2:pCylinder2
+    400036: BreadBaron_Mace2:pCylinder3
+    400038: BreadBaron_Mace2:pCylinder4
+    400040: BreadBaron_Mace2:pCylinder5
+    400042: BreadBaron_Mace2:transform1
+    400044: BreadBaron_Mace2:transform2
+    400046: BreadBaron_Mace2:transform3
+    400048: BreadBaron_Mace2:transform4
+    400050: BreadBaron_Mace2:transform5
+    400052: BreadBaron_Mace2:transform6
+    400054: BreadBaron_Mace2:transform7
+    400056: BreadBaron_Mace2:transform8
+    400058: BreadBaron_Mace2:transform9
+    400060: group2
+    400062: group4
+    400064: group6
+    400066: joint1
+    400068: joint1 1
+    400070: joint2
+    400072: joint2 1
+    400074: joint3
+    400076: joint3 1
+    400078: L_ankle
+    400080: L_clav
+    400082: L_elbow
+    400084: L_foot
+    400086: L_knee
+    400088: L_leg
+    400090: L_shoulder
+    400092: L_toe
+    400094: L_wrist
+    400096: modelMesh
+    400098: R_ankle
+    400100: R_clav
+    400102: R_elbow
+    400104: R_foot
+    400106: R_knee
+    400108: R_leg
+    400110: R_shoulder
+    400112: R_toe
+    400114: R_wrist
+    400116: Root
+    400118: Spine1
+    400120: Spine2
+    400122: Spine3
+    400124: Spine4
+    2300000: BreadBaron_Cane:pCylinder1
+    2300002: modelMesh
+    3300000: BreadBaron_Cane:pCylinder1
+    3300002: modelMesh
+    4300000: modelMesh
+    4300002: BreadBaron_Cane:pCylinder1
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

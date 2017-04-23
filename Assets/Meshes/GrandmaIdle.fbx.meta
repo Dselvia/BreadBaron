@@ -1,0 +1,1213 @@
+fileFormatVersion: 2
+guid: e250a618e1e86694d91373b17cf8736d
+timeCreated: 1491465519
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: BreadBaron_GrandmaThrowingTextured:BreadBaron_Mace2:group
+    100002: BreadBaron_GrandmaThrowingTextured:BreadBaron_Mace2:group1
+    100004: BreadBaron_GrandmaThrowingTextured:BreadBaron_Mace2:group2
+    100006: BreadBaron_GrandmaThrowingTextured:BreadBaron_Mace2:group3
+    100008: BreadBaron_GrandmaThrowingTextured:BreadBaron_Mace2:group4
+    100010: BreadBaron_GrandmaThrowingTextured:BreadBaron_Mace2:pasted__group
+    100012: BreadBaron_GrandmaThrowingTextured:BreadBaron_Mace2:pasted__group1
+    100014: BreadBaron_GrandmaThrowingTextured:BreadBaron_Mace2:pasted__group1 1
+    100016: BreadBaron_GrandmaThrowingTextured:BreadBaron_Mace2:pasted__pasted__group
+    100018: BreadBaron_GrandmaThrowingTextured:BreadBaron_Mace2:pasted__pasted__group
+      1
+    100020: BreadBaron_GrandmaThrowingTextured:BreadBaron_Mace2:pasted__pasted__pasted__pCylinder2
+    100022: BreadBaron_GrandmaThrowingTextured:BreadBaron_Mace2:pasted__pasted__pasted__pCylinder2
+      1
+    100024: BreadBaron_GrandmaThrowingTextured:BreadBaron_Mace2:pasted__pasted__pCylinder2
+    100026: BreadBaron_GrandmaThrowingTextured:BreadBaron_Mace2:pasted__pCylinder2
+    100028: BreadBaron_GrandmaThrowingTextured:BreadBaron_Mace2:pCylinder1
+    100030: BreadBaron_GrandmaThrowingTextured:BreadBaron_Mace2:pCylinder2
+    100032: BreadBaron_GrandmaThrowingTextured:BreadBaron_Mace2:pCylinder3
+    100034: BreadBaron_GrandmaThrowingTextured:BreadBaron_Mace2:pCylinder4
+    100036: BreadBaron_GrandmaThrowingTextured:BreadBaron_Mace2:pCylinder5
+    100038: BreadBaron_GrandmaThrowingTextured:BreadBaron_Mace2:transform1
+    100040: BreadBaron_GrandmaThrowingTextured:BreadBaron_Mace2:transform2
+    100042: BreadBaron_GrandmaThrowingTextured:BreadBaron_Mace2:transform3
+    100044: BreadBaron_GrandmaThrowingTextured:BreadBaron_Mace2:transform4
+    100046: BreadBaron_GrandmaThrowingTextured:BreadBaron_Mace2:transform5
+    100048: BreadBaron_GrandmaThrowingTextured:BreadBaron_Mace2:transform6
+    100050: BreadBaron_GrandmaThrowingTextured:BreadBaron_Mace2:transform7
+    100052: BreadBaron_GrandmaThrowingTextured:BreadBaron_Mace2:transform8
+    100054: BreadBaron_GrandmaThrowingTextured:BreadBaron_Mace2:transform9
+    100056: BreadBaron_GrandmaThrowingTextured:group
+    100058: BreadBaron_GrandmaThrowingTextured:group1
+    100060: BreadBaron_GrandmaThrowingTextured:group2
+    100062: BreadBaron_GrandmaThrowingTextured:group3
+    100064: BreadBaron_GrandmaThrowingTextured:group4
+    100066: BreadBaron_GrandmaThrowingTextured:group5
+    100068: BreadBaron_GrandmaThrowingTextured:group6
+    100070: BreadBaron_GrandmaThrowingTextured:group7
+    100072: BreadBaron_GrandmaThrowingTextured:pasted__pCube1
+    100074: BreadBaron_GrandmaThrowingTextured:pasted__pCylinder2
+    100076: BreadBaron_GrandmaThrowingTextured:pasted__pCylinder4
+    100078: BreadBaron_GrandmaThrowingTextured:pasted__pCylinder5
+    100080: BreadBaron_GrandmaThrowingTextured:pasted__pSphere2
+    100082: BreadBaron_GrandmaThrowingTextured:pasted__pTorus1
+    100084: BreadBaron_GrandmaThrowingTextured:pCube1
+    100086: BreadBaron_GrandmaThrowingTextured:pCylinder1
+    100088: BreadBaron_GrandmaThrowingTextured:pCylinder2
+    100090: BreadBaron_GrandmaThrowingTextured:pSphere1
+    100092: BreadBaron_GrandmaThrowingTextured:pSphere2
+    100094: BreadBaron_GrandmaThrowingTextured:pSphere3
+    100096: BreadBaron_GrandmaThrowingTextured:pSphere4
+    100098: BreadBaron_GrandmaThrowingTextured:pSphere5
+    100100: BreadBaron_GrandmaThrowingTextured:pSphere6
+    100102: BreadBaron_GrandmaThrowingTextured:pTorus1
+    100104: BreadBaron_GrandmaThrowingTextured:transform1
+    100106: BreadBaron_GrandmaThrowingTextured:transform10
+    100108: BreadBaron_GrandmaThrowingTextured:transform11
+    100110: BreadBaron_GrandmaThrowingTextured:transform12
+    100112: BreadBaron_GrandmaThrowingTextured:transform13
+    100114: BreadBaron_GrandmaThrowingTextured:transform14
+    100116: BreadBaron_GrandmaThrowingTextured:transform15
+    100118: BreadBaron_GrandmaThrowingTextured:transform16
+    100120: BreadBaron_GrandmaThrowingTextured:transform2
+    100122: BreadBaron_GrandmaThrowingTextured:transform3
+    100124: BreadBaron_GrandmaThrowingTextured:transform4
+    100126: BreadBaron_GrandmaThrowingTextured:transform5
+    100128: BreadBaron_GrandmaThrowingTextured:transform6
+    100130: BreadBaron_GrandmaThrowingTextured:transform7
+    100132: BreadBaron_GrandmaThrowingTextured:transform8
+    100134: BreadBaron_GrandmaThrowingTextured:transform9
+    100136: Gma:BreadBaron_GrandmaThrowingTextured:BreadBaron_Mace2:group
+    100138: Gma:BreadBaron_GrandmaThrowingTextured:BreadBaron_Mace2:group1
+    100140: Gma:BreadBaron_GrandmaThrowingTextured:BreadBaron_Mace2:group2
+    100142: Gma:BreadBaron_GrandmaThrowingTextured:BreadBaron_Mace2:group3
+    100144: Gma:BreadBaron_GrandmaThrowingTextured:BreadBaron_Mace2:group4
+    100146: Gma:BreadBaron_GrandmaThrowingTextured:BreadBaron_Mace2:pasted__group
+    100148: Gma:BreadBaron_GrandmaThrowingTextured:BreadBaron_Mace2:pasted__group1
+    100150: Gma:BreadBaron_GrandmaThrowingTextured:BreadBaron_Mace2:pasted__group1
+      1
+    100152: Gma:BreadBaron_GrandmaThrowingTextured:BreadBaron_Mace2:pasted__pasted__group
+    100154: Gma:BreadBaron_GrandmaThrowingTextured:BreadBaron_Mace2:pasted__pasted__group
+      1
+    100156: Gma:BreadBaron_GrandmaThrowingTextured:BreadBaron_Mace2:pasted__pasted__pasted__pCylinder2
+    100158: Gma:BreadBaron_GrandmaThrowingTextured:BreadBaron_Mace2:pasted__pasted__pasted__pCylinder2
+      1
+    100160: Gma:BreadBaron_GrandmaThrowingTextured:BreadBaron_Mace2:pasted__pasted__pCylinder2
+    100162: Gma:BreadBaron_GrandmaThrowingTextured:BreadBaron_Mace2:pasted__pCylinder2
+    100164: Gma:BreadBaron_GrandmaThrowingTextured:BreadBaron_Mace2:pCylinder1
+    100166: Gma:BreadBaron_GrandmaThrowingTextured:BreadBaron_Mace2:pCylinder2
+    100168: Gma:BreadBaron_GrandmaThrowingTextured:BreadBaron_Mace2:pCylinder3
+    100170: Gma:BreadBaron_GrandmaThrowingTextured:BreadBaron_Mace2:pCylinder4
+    100172: Gma:BreadBaron_GrandmaThrowingTextured:BreadBaron_Mace2:pCylinder5
+    100174: Gma:BreadBaron_GrandmaThrowingTextured:BreadBaron_Mace2:transform1
+    100176: Gma:BreadBaron_GrandmaThrowingTextured:BreadBaron_Mace2:transform2
+    100178: Gma:BreadBaron_GrandmaThrowingTextured:BreadBaron_Mace2:transform3
+    100180: Gma:BreadBaron_GrandmaThrowingTextured:BreadBaron_Mace2:transform4
+    100182: Gma:BreadBaron_GrandmaThrowingTextured:BreadBaron_Mace2:transform5
+    100184: Gma:BreadBaron_GrandmaThrowingTextured:BreadBaron_Mace2:transform6
+    100186: Gma:BreadBaron_GrandmaThrowingTextured:BreadBaron_Mace2:transform7
+    100188: Gma:BreadBaron_GrandmaThrowingTextured:BreadBaron_Mace2:transform8
+    100190: Gma:BreadBaron_GrandmaThrowingTextured:BreadBaron_Mace2:transform9
+    100192: Gma:BreadBaron_GrandmaThrowingTextured:group
+    100194: Gma:BreadBaron_GrandmaThrowingTextured:group1
+    100196: Gma:BreadBaron_GrandmaThrowingTextured:group2
+    100198: Gma:BreadBaron_GrandmaThrowingTextured:group3
+    100200: Gma:BreadBaron_GrandmaThrowingTextured:group4
+    100202: Gma:BreadBaron_GrandmaThrowingTextured:group5
+    100204: Gma:BreadBaron_GrandmaThrowingTextured:group6
+    100206: Gma:BreadBaron_GrandmaThrowingTextured:group7
+    100208: Gma:BreadBaron_GrandmaThrowingTextured:pasted__pCube1
+    100210: Gma:BreadBaron_GrandmaThrowingTextured:pasted__pCylinder2
+    100212: Gma:BreadBaron_GrandmaThrowingTextured:pasted__pCylinder4
+    100214: Gma:BreadBaron_GrandmaThrowingTextured:pasted__pCylinder5
+    100216: Gma:BreadBaron_GrandmaThrowingTextured:pasted__pSphere2
+    100218: Gma:BreadBaron_GrandmaThrowingTextured:pasted__pTorus1
+    100220: Gma:BreadBaron_GrandmaThrowingTextured:pCube1
+    100222: Gma:BreadBaron_GrandmaThrowingTextured:pCylinder1
+    100224: Gma:BreadBaron_GrandmaThrowingTextured:pCylinder2
+    100226: Gma:BreadBaron_GrandmaThrowingTextured:pSphere1
+    100228: Gma:BreadBaron_GrandmaThrowingTextured:pSphere2
+    100230: Gma:BreadBaron_GrandmaThrowingTextured:pSphere3
+    100232: Gma:BreadBaron_GrandmaThrowingTextured:pSphere4
+    100234: Gma:BreadBaron_GrandmaThrowingTextured:pSphere5
+    100236: Gma:BreadBaron_GrandmaThrowingTextured:pSphere6
+    100238: Gma:BreadBaron_GrandmaThrowingTextured:pTorus1
+    100240: Gma:BreadBaron_GrandmaThrowingTextured:transform1
+    100242: Gma:BreadBaron_GrandmaThrowingTextured:transform10
+    100244: Gma:BreadBaron_GrandmaThrowingTextured:transform11
+    100246: Gma:BreadBaron_GrandmaThrowingTextured:transform12
+    100248: Gma:BreadBaron_GrandmaThrowingTextured:transform13
+    100250: Gma:BreadBaron_GrandmaThrowingTextured:transform14
+    100252: Gma:BreadBaron_GrandmaThrowingTextured:transform15
+    100254: Gma:BreadBaron_GrandmaThrowingTextured:transform16
+    100256: Gma:BreadBaron_GrandmaThrowingTextured:transform2
+    100258: Gma:BreadBaron_GrandmaThrowingTextured:transform3
+    100260: Gma:BreadBaron_GrandmaThrowingTextured:transform4
+    100262: Gma:BreadBaron_GrandmaThrowingTextured:transform5
+    100264: Gma:BreadBaron_GrandmaThrowingTextured:transform6
+    100266: Gma:BreadBaron_GrandmaThrowingTextured:transform7
+    100268: Gma:BreadBaron_GrandmaThrowingTextured:transform8
+    100270: Gma:BreadBaron_GrandmaThrowingTextured:transform9
+    100272: Gma:Gma3:BreadBaron_Cane:pCylinder1
+    100274: Gma:Gma3:BreadBaron_Mace2:group
+    100276: Gma:Gma3:BreadBaron_Mace2:group1
+    100278: Gma:Gma3:BreadBaron_Mace2:group2
+    100280: Gma:Gma3:BreadBaron_Mace2:group3
+    100282: Gma:Gma3:BreadBaron_Mace2:group4
+    100284: Gma:Gma3:BreadBaron_Mace2:pasted__group
+    100286: Gma:Gma3:BreadBaron_Mace2:pasted__group1
+    100288: Gma:Gma3:BreadBaron_Mace2:pasted__group1 1
+    100290: Gma:Gma3:BreadBaron_Mace2:pasted__pasted__group
+    100292: Gma:Gma3:BreadBaron_Mace2:pasted__pasted__group 1
+    100294: Gma:Gma3:BreadBaron_Mace2:pasted__pasted__pasted__pCylinder2
+    100296: Gma:Gma3:BreadBaron_Mace2:pasted__pasted__pasted__pCylinder2 1
+    100298: Gma:Gma3:BreadBaron_Mace2:pasted__pasted__pCylinder2
+    100300: Gma:Gma3:BreadBaron_Mace2:pasted__pCylinder2
+    100302: Gma:Gma3:BreadBaron_Mace2:pCylinder1
+    100304: Gma:Gma3:BreadBaron_Mace2:pCylinder2
+    100306: Gma:Gma3:BreadBaron_Mace2:pCylinder3
+    100308: Gma:Gma3:BreadBaron_Mace2:pCylinder4
+    100310: Gma:Gma3:BreadBaron_Mace2:pCylinder5
+    100312: Gma:Gma3:BreadBaron_Mace2:transform1
+    100314: Gma:Gma3:BreadBaron_Mace2:transform2
+    100316: Gma:Gma3:BreadBaron_Mace2:transform3
+    100318: Gma:Gma3:BreadBaron_Mace2:transform4
+    100320: Gma:Gma3:BreadBaron_Mace2:transform5
+    100322: Gma:Gma3:BreadBaron_Mace2:transform6
+    100324: Gma:Gma3:BreadBaron_Mace2:transform7
+    100326: Gma:Gma3:BreadBaron_Mace2:transform8
+    100328: Gma:Gma3:BreadBaron_Mace2:transform9
+    100330: Gma:Gma3:group2
+    100332: Gma:Gma3:group4
+    100334: Gma:Gma3:group6
+    100336: Gma:Gma3:joint1
+    100338: Gma:Gma3:joint1 1
+    100340: Gma:Gma3:joint2
+    100342: Gma:Gma3:joint2 1
+    100344: Gma:Gma3:joint3
+    100346: Gma:Gma3:joint3 1
+    100348: Gma:Gma3:L_ankle
+    100350: Gma:Gma3:L_clav
+    100352: Gma:Gma3:L_elbow
+    100354: Gma:Gma3:L_foot
+    100356: Gma:Gma3:L_knee
+    100358: Gma:Gma3:L_leg
+    100360: Gma:Gma3:L_shoulder
+    100362: Gma:Gma3:L_toe
+    100364: Gma:Gma3:L_wrist
+    100366: Gma:Gma3:modelMesh
+    100368: Gma:Gma3:polySurface1
+    100370: Gma:Gma3:polySurface1 1
+    100372: Gma:Gma3:polySurface10
+    100374: Gma:Gma3:polySurface11
+    100376: Gma:Gma3:polySurface12
+    100378: Gma:Gma3:polySurface13
+    100380: Gma:Gma3:polySurface14
+    100382: Gma:Gma3:polySurface15
+    100384: Gma:Gma3:polySurface16
+    100386: Gma:Gma3:polySurface17
+    100388: Gma:Gma3:polySurface18
+    100390: Gma:Gma3:polySurface19
+    100392: Gma:Gma3:polySurface2
+    100394: Gma:Gma3:polySurface20
+    100396: Gma:Gma3:polySurface21
+    100398: Gma:Gma3:polySurface22
+    100400: Gma:Gma3:polySurface23
+    100402: Gma:Gma3:polySurface24
+    100404: Gma:Gma3:polySurface25
+    100406: Gma:Gma3:polySurface26
+    100408: Gma:Gma3:polySurface27
+    100410: Gma:Gma3:polySurface28
+    100412: Gma:Gma3:polySurface29
+    100414: Gma:Gma3:polySurface3
+    100416: Gma:Gma3:polySurface30
+    100418: Gma:Gma3:polySurface31
+    100420: Gma:Gma3:polySurface32
+    100422: Gma:Gma3:polySurface33
+    100424: Gma:Gma3:polySurface4
+    100426: Gma:Gma3:polySurface5
+    100428: Gma:Gma3:polySurface6
+    100430: Gma:Gma3:polySurface7
+    100432: Gma:Gma3:polySurface8
+    100434: Gma:Gma3:polySurface9
+    100436: Gma:Gma3:R_ankle
+    100438: Gma:Gma3:R_clav
+    100440: Gma:Gma3:R_elbow
+    100442: Gma:Gma3:R_foot
+    100444: Gma:Gma3:R_knee
+    100446: Gma:Gma3:R_leg
+    100448: Gma:Gma3:R_shoulder
+    100450: Gma:Gma3:R_toe
+    100452: Gma:Gma3:R_wrist
+    100454: Gma:Gma3:Root
+    100456: Gma:Gma3:Spine1
+    100458: Gma:Gma3:Spine2
+    100460: Gma:Gma3:Spine3
+    100462: Gma:Gma3:Spine4
+    100464: Gma:Gma3:transform1
+    100466: Gma:Gma3:transform10
+    100468: Gma:Gma3:transform11
+    100470: Gma:Gma3:transform12
+    100472: Gma:Gma3:transform13
+    100474: Gma:Gma3:transform14
+    100476: Gma:Gma3:transform15
+    100478: Gma:Gma3:transform16
+    100480: Gma:Gma3:transform17
+    100482: Gma:Gma3:transform18
+    100484: Gma:Gma3:transform19
+    100486: Gma:Gma3:transform2
+    100488: Gma:Gma3:transform20
+    100490: Gma:Gma3:transform21
+    100492: Gma:Gma3:transform22
+    100494: Gma:Gma3:transform23
+    100496: Gma:Gma3:transform24
+    100498: Gma:Gma3:transform25
+    100500: Gma:Gma3:transform26
+    100502: Gma:Gma3:transform27
+    100504: Gma:Gma3:transform28
+    100506: Gma:Gma3:transform29
+    100508: Gma:Gma3:transform3
+    100510: Gma:Gma3:transform30
+    100512: Gma:Gma3:transform31
+    100514: Gma:Gma3:transform32
+    100516: Gma:Gma3:transform33
+    100518: Gma:Gma3:transform4
+    100520: Gma:Gma3:transform5
+    100522: Gma:Gma3:transform6
+    100524: Gma:Gma3:transform7
+    100526: Gma:Gma3:transform8
+    100528: Gma:Gma3:transform9
+    100530: //RootNode
+    400000: BreadBaron_GrandmaThrowingTextured:BreadBaron_Mace2:group
+    400002: BreadBaron_GrandmaThrowingTextured:BreadBaron_Mace2:group1
+    400004: BreadBaron_GrandmaThrowingTextured:BreadBaron_Mace2:group2
+    400006: BreadBaron_GrandmaThrowingTextured:BreadBaron_Mace2:group3
+    400008: BreadBaron_GrandmaThrowingTextured:BreadBaron_Mace2:group4
+    400010: BreadBaron_GrandmaThrowingTextured:BreadBaron_Mace2:pasted__group
+    400012: BreadBaron_GrandmaThrowingTextured:BreadBaron_Mace2:pasted__group1
+    400014: BreadBaron_GrandmaThrowingTextured:BreadBaron_Mace2:pasted__group1 1
+    400016: BreadBaron_GrandmaThrowingTextured:BreadBaron_Mace2:pasted__pasted__group
+    400018: BreadBaron_GrandmaThrowingTextured:BreadBaron_Mace2:pasted__pasted__group
+      1
+    400020: BreadBaron_GrandmaThrowingTextured:BreadBaron_Mace2:pasted__pasted__pasted__pCylinder2
+    400022: BreadBaron_GrandmaThrowingTextured:BreadBaron_Mace2:pasted__pasted__pasted__pCylinder2
+      1
+    400024: BreadBaron_GrandmaThrowingTextured:BreadBaron_Mace2:pasted__pasted__pCylinder2
+    400026: BreadBaron_GrandmaThrowingTextured:BreadBaron_Mace2:pasted__pCylinder2
+    400028: BreadBaron_GrandmaThrowingTextured:BreadBaron_Mace2:pCylinder1
+    400030: BreadBaron_GrandmaThrowingTextured:BreadBaron_Mace2:pCylinder2
+    400032: BreadBaron_GrandmaThrowingTextured:BreadBaron_Mace2:pCylinder3
+    400034: BreadBaron_GrandmaThrowingTextured:BreadBaron_Mace2:pCylinder4
+    400036: BreadBaron_GrandmaThrowingTextured:BreadBaron_Mace2:pCylinder5
+    400038: BreadBaron_GrandmaThrowingTextured:BreadBaron_Mace2:transform1
+    400040: BreadBaron_GrandmaThrowingTextured:BreadBaron_Mace2:transform2
+    400042: BreadBaron_GrandmaThrowingTextured:BreadBaron_Mace2:transform3
+    400044: BreadBaron_GrandmaThrowingTextured:BreadBaron_Mace2:transform4
+    400046: BreadBaron_GrandmaThrowingTextured:BreadBaron_Mace2:transform5
+    400048: BreadBaron_GrandmaThrowingTextured:BreadBaron_Mace2:transform6
+    400050: BreadBaron_GrandmaThrowingTextured:BreadBaron_Mace2:transform7
+    400052: BreadBaron_GrandmaThrowingTextured:BreadBaron_Mace2:transform8
+    400054: BreadBaron_GrandmaThrowingTextured:BreadBaron_Mace2:transform9
+    400056: BreadBaron_GrandmaThrowingTextured:group
+    400058: BreadBaron_GrandmaThrowingTextured:group1
+    400060: BreadBaron_GrandmaThrowingTextured:group2
+    400062: BreadBaron_GrandmaThrowingTextured:group3
+    400064: BreadBaron_GrandmaThrowingTextured:group4
+    400066: BreadBaron_GrandmaThrowingTextured:group5
+    400068: BreadBaron_GrandmaThrowingTextured:group6
+    400070: BreadBaron_GrandmaThrowingTextured:group7
+    400072: BreadBaron_GrandmaThrowingTextured:pasted__pCube1
+    400074: BreadBaron_GrandmaThrowingTextured:pasted__pCylinder2
+    400076: BreadBaron_GrandmaThrowingTextured:pasted__pCylinder4
+    400078: BreadBaron_GrandmaThrowingTextured:pasted__pCylinder5
+    400080: BreadBaron_GrandmaThrowingTextured:pasted__pSphere2
+    400082: BreadBaron_GrandmaThrowingTextured:pasted__pTorus1
+    400084: BreadBaron_GrandmaThrowingTextured:pCube1
+    400086: BreadBaron_GrandmaThrowingTextured:pCylinder1
+    400088: BreadBaron_GrandmaThrowingTextured:pCylinder2
+    400090: BreadBaron_GrandmaThrowingTextured:pSphere1
+    400092: BreadBaron_GrandmaThrowingTextured:pSphere2
+    400094: BreadBaron_GrandmaThrowingTextured:pSphere3
+    400096: BreadBaron_GrandmaThrowingTextured:pSphere4
+    400098: BreadBaron_GrandmaThrowingTextured:pSphere5
+    400100: BreadBaron_GrandmaThrowingTextured:pSphere6
+    400102: BreadBaron_GrandmaThrowingTextured:pTorus1
+    400104: BreadBaron_GrandmaThrowingTextured:transform1
+    400106: BreadBaron_GrandmaThrowingTextured:transform10
+    400108: BreadBaron_GrandmaThrowingTextured:transform11
+    400110: BreadBaron_GrandmaThrowingTextured:transform12
+    400112: BreadBaron_GrandmaThrowingTextured:transform13
+    400114: BreadBaron_GrandmaThrowingTextured:transform14
+    400116: BreadBaron_GrandmaThrowingTextured:transform15
+    400118: BreadBaron_GrandmaThrowingTextured:transform16
+    400120: BreadBaron_GrandmaThrowingTextured:transform2
+    400122: BreadBaron_GrandmaThrowingTextured:transform3
+    400124: BreadBaron_GrandmaThrowingTextured:transform4
+    400126: BreadBaron_GrandmaThrowingTextured:transform5
+    400128: BreadBaron_GrandmaThrowingTextured:transform6
+    400130: BreadBaron_GrandmaThrowingTextured:transform7
+    400132: BreadBaron_GrandmaThrowingTextured:transform8
+    400134: BreadBaron_GrandmaThrowingTextured:transform9
+    400136: Gma:BreadBaron_GrandmaThrowingTextured:BreadBaron_Mace2:group
+    400138: Gma:BreadBaron_GrandmaThrowingTextured:BreadBaron_Mace2:group1
+    400140: Gma:BreadBaron_GrandmaThrowingTextured:BreadBaron_Mace2:group2
+    400142: Gma:BreadBaron_GrandmaThrowingTextured:BreadBaron_Mace2:group3
+    400144: Gma:BreadBaron_GrandmaThrowingTextured:BreadBaron_Mace2:group4
+    400146: Gma:BreadBaron_GrandmaThrowingTextured:BreadBaron_Mace2:pasted__group
+    400148: Gma:BreadBaron_GrandmaThrowingTextured:BreadBaron_Mace2:pasted__group1
+    400150: Gma:BreadBaron_GrandmaThrowingTextured:BreadBaron_Mace2:pasted__group1
+      1
+    400152: Gma:BreadBaron_GrandmaThrowingTextured:BreadBaron_Mace2:pasted__pasted__group
+    400154: Gma:BreadBaron_GrandmaThrowingTextured:BreadBaron_Mace2:pasted__pasted__group
+      1
+    400156: Gma:BreadBaron_GrandmaThrowingTextured:BreadBaron_Mace2:pasted__pasted__pasted__pCylinder2
+    400158: Gma:BreadBaron_GrandmaThrowingTextured:BreadBaron_Mace2:pasted__pasted__pasted__pCylinder2
+      1
+    400160: Gma:BreadBaron_GrandmaThrowingTextured:BreadBaron_Mace2:pasted__pasted__pCylinder2
+    400162: Gma:BreadBaron_GrandmaThrowingTextured:BreadBaron_Mace2:pasted__pCylinder2
+    400164: Gma:BreadBaron_GrandmaThrowingTextured:BreadBaron_Mace2:pCylinder1
+    400166: Gma:BreadBaron_GrandmaThrowingTextured:BreadBaron_Mace2:pCylinder2
+    400168: Gma:BreadBaron_GrandmaThrowingTextured:BreadBaron_Mace2:pCylinder3
+    400170: Gma:BreadBaron_GrandmaThrowingTextured:BreadBaron_Mace2:pCylinder4
+    400172: Gma:BreadBaron_GrandmaThrowingTextured:BreadBaron_Mace2:pCylinder5
+    400174: Gma:BreadBaron_GrandmaThrowingTextured:BreadBaron_Mace2:transform1
+    400176: Gma:BreadBaron_GrandmaThrowingTextured:BreadBaron_Mace2:transform2
+    400178: Gma:BreadBaron_GrandmaThrowingTextured:BreadBaron_Mace2:transform3
+    400180: Gma:BreadBaron_GrandmaThrowingTextured:BreadBaron_Mace2:transform4
+    400182: Gma:BreadBaron_GrandmaThrowingTextured:BreadBaron_Mace2:transform5
+    400184: Gma:BreadBaron_GrandmaThrowingTextured:BreadBaron_Mace2:transform6
+    400186: Gma:BreadBaron_GrandmaThrowingTextured:BreadBaron_Mace2:transform7
+    400188: Gma:BreadBaron_GrandmaThrowingTextured:BreadBaron_Mace2:transform8
+    400190: Gma:BreadBaron_GrandmaThrowingTextured:BreadBaron_Mace2:transform9
+    400192: Gma:BreadBaron_GrandmaThrowingTextured:group
+    400194: Gma:BreadBaron_GrandmaThrowingTextured:group1
+    400196: Gma:BreadBaron_GrandmaThrowingTextured:group2
+    400198: Gma:BreadBaron_GrandmaThrowingTextured:group3
+    400200: Gma:BreadBaron_GrandmaThrowingTextured:group4
+    400202: Gma:BreadBaron_GrandmaThrowingTextured:group5
+    400204: Gma:BreadBaron_GrandmaThrowingTextured:group6
+    400206: Gma:BreadBaron_GrandmaThrowingTextured:group7
+    400208: Gma:BreadBaron_GrandmaThrowingTextured:pasted__pCube1
+    400210: Gma:BreadBaron_GrandmaThrowingTextured:pasted__pCylinder2
+    400212: Gma:BreadBaron_GrandmaThrowingTextured:pasted__pCylinder4
+    400214: Gma:BreadBaron_GrandmaThrowingTextured:pasted__pCylinder5
+    400216: Gma:BreadBaron_GrandmaThrowingTextured:pasted__pSphere2
+    400218: Gma:BreadBaron_GrandmaThrowingTextured:pasted__pTorus1
+    400220: Gma:BreadBaron_GrandmaThrowingTextured:pCube1
+    400222: Gma:BreadBaron_GrandmaThrowingTextured:pCylinder1
+    400224: Gma:BreadBaron_GrandmaThrowingTextured:pCylinder2
+    400226: Gma:BreadBaron_GrandmaThrowingTextured:pSphere1
+    400228: Gma:BreadBaron_GrandmaThrowingTextured:pSphere2
+    400230: Gma:BreadBaron_GrandmaThrowingTextured:pSphere3
+    400232: Gma:BreadBaron_GrandmaThrowingTextured:pSphere4
+    400234: Gma:BreadBaron_GrandmaThrowingTextured:pSphere5
+    400236: Gma:BreadBaron_GrandmaThrowingTextured:pSphere6
+    400238: Gma:BreadBaron_GrandmaThrowingTextured:pTorus1
+    400240: Gma:BreadBaron_GrandmaThrowingTextured:transform1
+    400242: Gma:BreadBaron_GrandmaThrowingTextured:transform10
+    400244: Gma:BreadBaron_GrandmaThrowingTextured:transform11
+    400246: Gma:BreadBaron_GrandmaThrowingTextured:transform12
+    400248: Gma:BreadBaron_GrandmaThrowingTextured:transform13
+    400250: Gma:BreadBaron_GrandmaThrowingTextured:transform14
+    400252: Gma:BreadBaron_GrandmaThrowingTextured:transform15
+    400254: Gma:BreadBaron_GrandmaThrowingTextured:transform16
+    400256: Gma:BreadBaron_GrandmaThrowingTextured:transform2
+    400258: Gma:BreadBaron_GrandmaThrowingTextured:transform3
+    400260: Gma:BreadBaron_GrandmaThrowingTextured:transform4
+    400262: Gma:BreadBaron_GrandmaThrowingTextured:transform5
+    400264: Gma:BreadBaron_GrandmaThrowingTextured:transform6
+    400266: Gma:BreadBaron_GrandmaThrowingTextured:transform7
+    400268: Gma:BreadBaron_GrandmaThrowingTextured:transform8
+    400270: Gma:BreadBaron_GrandmaThrowingTextured:transform9
+    400272: Gma:Gma3:BreadBaron_Cane:pCylinder1
+    400274: Gma:Gma3:BreadBaron_Mace2:group
+    400276: Gma:Gma3:BreadBaron_Mace2:group1
+    400278: Gma:Gma3:BreadBaron_Mace2:group2
+    400280: Gma:Gma3:BreadBaron_Mace2:group3
+    400282: Gma:Gma3:BreadBaron_Mace2:group4
+    400284: Gma:Gma3:BreadBaron_Mace2:pasted__group
+    400286: Gma:Gma3:BreadBaron_Mace2:pasted__group1
+    400288: Gma:Gma3:BreadBaron_Mace2:pasted__group1 1
+    400290: Gma:Gma3:BreadBaron_Mace2:pasted__pasted__group
+    400292: Gma:Gma3:BreadBaron_Mace2:pasted__pasted__group 1
+    400294: Gma:Gma3:BreadBaron_Mace2:pasted__pasted__pasted__pCylinder2
+    400296: Gma:Gma3:BreadBaron_Mace2:pasted__pasted__pasted__pCylinder2 1
+    400298: Gma:Gma3:BreadBaron_Mace2:pasted__pasted__pCylinder2
+    400300: Gma:Gma3:BreadBaron_Mace2:pasted__pCylinder2
+    400302: Gma:Gma3:BreadBaron_Mace2:pCylinder1
+    400304: Gma:Gma3:BreadBaron_Mace2:pCylinder2
+    400306: Gma:Gma3:BreadBaron_Mace2:pCylinder3
+    400308: Gma:Gma3:BreadBaron_Mace2:pCylinder4
+    400310: Gma:Gma3:BreadBaron_Mace2:pCylinder5
+    400312: Gma:Gma3:BreadBaron_Mace2:transform1
+    400314: Gma:Gma3:BreadBaron_Mace2:transform2
+    400316: Gma:Gma3:BreadBaron_Mace2:transform3
+    400318: Gma:Gma3:BreadBaron_Mace2:transform4
+    400320: Gma:Gma3:BreadBaron_Mace2:transform5
+    400322: Gma:Gma3:BreadBaron_Mace2:transform6
+    400324: Gma:Gma3:BreadBaron_Mace2:transform7
+    400326: Gma:Gma3:BreadBaron_Mace2:transform8
+    400328: Gma:Gma3:BreadBaron_Mace2:transform9
+    400330: Gma:Gma3:group2
+    400332: Gma:Gma3:group4
+    400334: Gma:Gma3:group6
+    400336: Gma:Gma3:joint1
+    400338: Gma:Gma3:joint1 1
+    400340: Gma:Gma3:joint2
+    400342: Gma:Gma3:joint2 1
+    400344: Gma:Gma3:joint3
+    400346: Gma:Gma3:joint3 1
+    400348: Gma:Gma3:L_ankle
+    400350: Gma:Gma3:L_clav
+    400352: Gma:Gma3:L_elbow
+    400354: Gma:Gma3:L_foot
+    400356: Gma:Gma3:L_knee
+    400358: Gma:Gma3:L_leg
+    400360: Gma:Gma3:L_shoulder
+    400362: Gma:Gma3:L_toe
+    400364: Gma:Gma3:L_wrist
+    400366: Gma:Gma3:modelMesh
+    400368: Gma:Gma3:polySurface1
+    400370: Gma:Gma3:polySurface1 1
+    400372: Gma:Gma3:polySurface10
+    400374: Gma:Gma3:polySurface11
+    400376: Gma:Gma3:polySurface12
+    400378: Gma:Gma3:polySurface13
+    400380: Gma:Gma3:polySurface14
+    400382: Gma:Gma3:polySurface15
+    400384: Gma:Gma3:polySurface16
+    400386: Gma:Gma3:polySurface17
+    400388: Gma:Gma3:polySurface18
+    400390: Gma:Gma3:polySurface19
+    400392: Gma:Gma3:polySurface2
+    400394: Gma:Gma3:polySurface20
+    400396: Gma:Gma3:polySurface21
+    400398: Gma:Gma3:polySurface22
+    400400: Gma:Gma3:polySurface23
+    400402: Gma:Gma3:polySurface24
+    400404: Gma:Gma3:polySurface25
+    400406: Gma:Gma3:polySurface26
+    400408: Gma:Gma3:polySurface27
+    400410: Gma:Gma3:polySurface28
+    400412: Gma:Gma3:polySurface29
+    400414: Gma:Gma3:polySurface3
+    400416: Gma:Gma3:polySurface30
+    400418: Gma:Gma3:polySurface31
+    400420: Gma:Gma3:polySurface32
+    400422: Gma:Gma3:polySurface33
+    400424: Gma:Gma3:polySurface4
+    400426: Gma:Gma3:polySurface5
+    400428: Gma:Gma3:polySurface6
+    400430: Gma:Gma3:polySurface7
+    400432: Gma:Gma3:polySurface8
+    400434: Gma:Gma3:polySurface9
+    400436: Gma:Gma3:R_ankle
+    400438: Gma:Gma3:R_clav
+    400440: Gma:Gma3:R_elbow
+    400442: Gma:Gma3:R_foot
+    400444: Gma:Gma3:R_knee
+    400446: Gma:Gma3:R_leg
+    400448: Gma:Gma3:R_shoulder
+    400450: Gma:Gma3:R_toe
+    400452: Gma:Gma3:R_wrist
+    400454: Gma:Gma3:Root
+    400456: Gma:Gma3:Spine1
+    400458: Gma:Gma3:Spine2
+    400460: Gma:Gma3:Spine3
+    400462: Gma:Gma3:Spine4
+    400464: Gma:Gma3:transform1
+    400466: Gma:Gma3:transform10
+    400468: Gma:Gma3:transform11
+    400470: Gma:Gma3:transform12
+    400472: Gma:Gma3:transform13
+    400474: Gma:Gma3:transform14
+    400476: Gma:Gma3:transform15
+    400478: Gma:Gma3:transform16
+    400480: Gma:Gma3:transform17
+    400482: Gma:Gma3:transform18
+    400484: Gma:Gma3:transform19
+    400486: Gma:Gma3:transform2
+    400488: Gma:Gma3:transform20
+    400490: Gma:Gma3:transform21
+    400492: Gma:Gma3:transform22
+    400494: Gma:Gma3:transform23
+    400496: Gma:Gma3:transform24
+    400498: Gma:Gma3:transform25
+    400500: Gma:Gma3:transform26
+    400502: Gma:Gma3:transform27
+    400504: Gma:Gma3:transform28
+    400506: Gma:Gma3:transform29
+    400508: Gma:Gma3:transform3
+    400510: Gma:Gma3:transform30
+    400512: Gma:Gma3:transform31
+    400514: Gma:Gma3:transform32
+    400516: Gma:Gma3:transform33
+    400518: Gma:Gma3:transform4
+    400520: Gma:Gma3:transform5
+    400522: Gma:Gma3:transform6
+    400524: Gma:Gma3:transform7
+    400526: Gma:Gma3:transform8
+    400528: Gma:Gma3:transform9
+    400530: //RootNode
+    2300000: Gma:Gma3:BreadBaron_Cane:pCylinder1
+    3300000: Gma:Gma3:BreadBaron_Cane:pCylinder1
+    4300000: Gma:Gma3:BreadBaron_Cane:pCylinder1
+    4300002: Gma:Gma3:polySurface33
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: Gma:Gma3:polySurface33
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 24
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 1
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: BreadBaron_GrandmaThrowingTextured:BreadBaron_Mace2:group
+        weight: 1
+      - path: BreadBaron_GrandmaThrowingTextured:BreadBaron_Mace2:group1
+        weight: 1
+      - path: BreadBaron_GrandmaThrowingTextured:BreadBaron_Mace2:group1/BreadBaron_GrandmaThrowingTextured:BreadBaron_Mace2:pasted__group
+        weight: 1
+      - path: BreadBaron_GrandmaThrowingTextured:BreadBaron_Mace2:group1/BreadBaron_GrandmaThrowingTextured:BreadBaron_Mace2:pasted__group/BreadBaron_GrandmaThrowingTextured:BreadBaron_Mace2:pasted__pasted__pCylinder2
+        weight: 1
+      - path: BreadBaron_GrandmaThrowingTextured:BreadBaron_Mace2:group1/BreadBaron_GrandmaThrowingTextured:BreadBaron_Mace2:pasted__group/BreadBaron_GrandmaThrowingTextured:BreadBaron_Mace2:pasted__pasted__pCylinder2/BreadBaron_GrandmaThrowingTextured:BreadBaron_Mace2:transform8
+        weight: 1
+      - path: BreadBaron_GrandmaThrowingTextured:BreadBaron_Mace2:group2
+        weight: 1
+      - path: BreadBaron_GrandmaThrowingTextured:BreadBaron_Mace2:group2/BreadBaron_GrandmaThrowingTextured:BreadBaron_Mace2:pasted__group1
+        weight: 1
+      - path: BreadBaron_GrandmaThrowingTextured:BreadBaron_Mace2:group2/BreadBaron_GrandmaThrowingTextured:BreadBaron_Mace2:pasted__group1/BreadBaron_GrandmaThrowingTextured:BreadBaron_Mace2:pasted__pasted__group
+        weight: 1
+      - path: BreadBaron_GrandmaThrowingTextured:BreadBaron_Mace2:group2/BreadBaron_GrandmaThrowingTextured:BreadBaron_Mace2:pasted__group1/BreadBaron_GrandmaThrowingTextured:BreadBaron_Mace2:pasted__pasted__group/BreadBaron_GrandmaThrowingTextured:BreadBaron_Mace2:pasted__pasted__pasted__pCylinder2
+        weight: 1
+      - path: BreadBaron_GrandmaThrowingTextured:BreadBaron_Mace2:group2/BreadBaron_GrandmaThrowingTextured:BreadBaron_Mace2:pasted__group1/BreadBaron_GrandmaThrowingTextured:BreadBaron_Mace2:pasted__pasted__group/BreadBaron_GrandmaThrowingTextured:BreadBaron_Mace2:pasted__pasted__pasted__pCylinder2/BreadBaron_GrandmaThrowingTextured:BreadBaron_Mace2:transform1
+        weight: 1
+      - path: BreadBaron_GrandmaThrowingTextured:BreadBaron_Mace2:group3
+        weight: 1
+      - path: BreadBaron_GrandmaThrowingTextured:BreadBaron_Mace2:group3/BreadBaron_GrandmaThrowingTextured:BreadBaron_Mace2:pasted__group1
+          1
+        weight: 1
+      - path: BreadBaron_GrandmaThrowingTextured:BreadBaron_Mace2:group3/BreadBaron_GrandmaThrowingTextured:BreadBaron_Mace2:pasted__group1
+          1/BreadBaron_GrandmaThrowingTextured:BreadBaron_Mace2:pasted__pasted__group
+          1
+        weight: 1
+      - path: BreadBaron_GrandmaThrowingTextured:BreadBaron_Mace2:group3/BreadBaron_GrandmaThrowingTextured:BreadBaron_Mace2:pasted__group1
+          1/BreadBaron_GrandmaThrowingTextured:BreadBaron_Mace2:pasted__pasted__group
+          1/BreadBaron_GrandmaThrowingTextured:BreadBaron_Mace2:pasted__pasted__pasted__pCylinder2
+          1
+        weight: 1
+      - path: BreadBaron_GrandmaThrowingTextured:BreadBaron_Mace2:group3/BreadBaron_GrandmaThrowingTextured:BreadBaron_Mace2:pasted__group1
+          1/BreadBaron_GrandmaThrowingTextured:BreadBaron_Mace2:pasted__pasted__group
+          1/BreadBaron_GrandmaThrowingTextured:BreadBaron_Mace2:pasted__pasted__pasted__pCylinder2
+          1/BreadBaron_GrandmaThrowingTextured:BreadBaron_Mace2:transform3
+        weight: 1
+      - path: BreadBaron_GrandmaThrowingTextured:BreadBaron_Mace2:group4
+        weight: 1
+      - path: BreadBaron_GrandmaThrowingTextured:BreadBaron_Mace2:group4/BreadBaron_GrandmaThrowingTextured:BreadBaron_Mace2:pasted__pCylinder2
+        weight: 1
+      - path: BreadBaron_GrandmaThrowingTextured:BreadBaron_Mace2:group4/BreadBaron_GrandmaThrowingTextured:BreadBaron_Mace2:pasted__pCylinder2/BreadBaron_GrandmaThrowingTextured:BreadBaron_Mace2:transform6
+        weight: 1
+      - path: BreadBaron_GrandmaThrowingTextured:BreadBaron_Mace2:pCylinder1
+        weight: 1
+      - path: BreadBaron_GrandmaThrowingTextured:BreadBaron_Mace2:pCylinder1/BreadBaron_GrandmaThrowingTextured:BreadBaron_Mace2:transform7
+        weight: 1
+      - path: BreadBaron_GrandmaThrowingTextured:BreadBaron_Mace2:pCylinder2
+        weight: 1
+      - path: BreadBaron_GrandmaThrowingTextured:BreadBaron_Mace2:pCylinder2/BreadBaron_GrandmaThrowingTextured:BreadBaron_Mace2:transform2
+        weight: 1
+      - path: BreadBaron_GrandmaThrowingTextured:BreadBaron_Mace2:pCylinder3
+        weight: 1
+      - path: BreadBaron_GrandmaThrowingTextured:BreadBaron_Mace2:pCylinder3/BreadBaron_GrandmaThrowingTextured:BreadBaron_Mace2:transform9
+        weight: 1
+      - path: BreadBaron_GrandmaThrowingTextured:BreadBaron_Mace2:pCylinder4
+        weight: 1
+      - path: BreadBaron_GrandmaThrowingTextured:BreadBaron_Mace2:pCylinder4/BreadBaron_GrandmaThrowingTextured:BreadBaron_Mace2:transform4
+        weight: 1
+      - path: BreadBaron_GrandmaThrowingTextured:BreadBaron_Mace2:pCylinder5
+        weight: 1
+      - path: BreadBaron_GrandmaThrowingTextured:BreadBaron_Mace2:pCylinder5/BreadBaron_GrandmaThrowingTextured:BreadBaron_Mace2:transform5
+        weight: 1
+      - path: BreadBaron_GrandmaThrowingTextured:group
+        weight: 1
+      - path: BreadBaron_GrandmaThrowingTextured:group/BreadBaron_GrandmaThrowingTextured:pasted__pSphere2
+        weight: 1
+      - path: BreadBaron_GrandmaThrowingTextured:group/BreadBaron_GrandmaThrowingTextured:pasted__pSphere2/BreadBaron_GrandmaThrowingTextured:transform4
+        weight: 1
+      - path: BreadBaron_GrandmaThrowingTextured:group1
+        weight: 1
+      - path: BreadBaron_GrandmaThrowingTextured:group1/BreadBaron_GrandmaThrowingTextured:pasted__pTorus1
+        weight: 1
+      - path: BreadBaron_GrandmaThrowingTextured:group1/BreadBaron_GrandmaThrowingTextured:pasted__pTorus1/BreadBaron_GrandmaThrowingTextured:transform7
+        weight: 1
+      - path: BreadBaron_GrandmaThrowingTextured:group2
+        weight: 1
+      - path: BreadBaron_GrandmaThrowingTextured:group3
+        weight: 1
+      - path: BreadBaron_GrandmaThrowingTextured:group3/BreadBaron_GrandmaThrowingTextured:pasted__pCylinder2
+        weight: 1
+      - path: BreadBaron_GrandmaThrowingTextured:group3/BreadBaron_GrandmaThrowingTextured:pasted__pCylinder2/BreadBaron_GrandmaThrowingTextured:transform9
+        weight: 1
+      - path: BreadBaron_GrandmaThrowingTextured:group4
+        weight: 1
+      - path: BreadBaron_GrandmaThrowingTextured:group5
+        weight: 1
+      - path: BreadBaron_GrandmaThrowingTextured:group5/BreadBaron_GrandmaThrowingTextured:pasted__pCylinder4
+        weight: 1
+      - path: BreadBaron_GrandmaThrowingTextured:group5/BreadBaron_GrandmaThrowingTextured:pasted__pCylinder4/BreadBaron_GrandmaThrowingTextured:transform12
+        weight: 1
+      - path: BreadBaron_GrandmaThrowingTextured:group5/BreadBaron_GrandmaThrowingTextured:pasted__pCylinder5
+        weight: 1
+      - path: BreadBaron_GrandmaThrowingTextured:group5/BreadBaron_GrandmaThrowingTextured:pasted__pCylinder5/BreadBaron_GrandmaThrowingTextured:transform11
+        weight: 1
+      - path: BreadBaron_GrandmaThrowingTextured:group6
+        weight: 1
+      - path: BreadBaron_GrandmaThrowingTextured:group7
+        weight: 1
+      - path: BreadBaron_GrandmaThrowingTextured:group7/BreadBaron_GrandmaThrowingTextured:pasted__pCube1
+        weight: 1
+      - path: BreadBaron_GrandmaThrowingTextured:group7/BreadBaron_GrandmaThrowingTextured:pasted__pCube1/BreadBaron_GrandmaThrowingTextured:transform15
+        weight: 1
+      - path: BreadBaron_GrandmaThrowingTextured:pCube1
+        weight: 1
+      - path: BreadBaron_GrandmaThrowingTextured:pCube1/BreadBaron_GrandmaThrowingTextured:transform14
+        weight: 1
+      - path: BreadBaron_GrandmaThrowingTextured:pCylinder1
+        weight: 1
+      - path: BreadBaron_GrandmaThrowingTextured:pCylinder1/BreadBaron_GrandmaThrowingTextured:transform1
+        weight: 1
+      - path: BreadBaron_GrandmaThrowingTextured:pCylinder2
+        weight: 1
+      - path: BreadBaron_GrandmaThrowingTextured:pCylinder2/BreadBaron_GrandmaThrowingTextured:transform8
+        weight: 1
+      - path: BreadBaron_GrandmaThrowingTextured:pSphere1
+        weight: 1
+      - path: BreadBaron_GrandmaThrowingTextured:pSphere1/BreadBaron_GrandmaThrowingTextured:transform2
+        weight: 1
+      - path: BreadBaron_GrandmaThrowingTextured:pSphere2
+        weight: 1
+      - path: BreadBaron_GrandmaThrowingTextured:pSphere2/BreadBaron_GrandmaThrowingTextured:transform3
+        weight: 1
+      - path: BreadBaron_GrandmaThrowingTextured:pSphere3
+        weight: 1
+      - path: BreadBaron_GrandmaThrowingTextured:pSphere3/BreadBaron_GrandmaThrowingTextured:transform5
+        weight: 1
+      - path: BreadBaron_GrandmaThrowingTextured:pSphere4
+        weight: 1
+      - path: BreadBaron_GrandmaThrowingTextured:pSphere4/BreadBaron_GrandmaThrowingTextured:transform10
+        weight: 1
+      - path: BreadBaron_GrandmaThrowingTextured:pSphere5
+        weight: 1
+      - path: BreadBaron_GrandmaThrowingTextured:pSphere5/BreadBaron_GrandmaThrowingTextured:transform13
+        weight: 1
+      - path: BreadBaron_GrandmaThrowingTextured:pSphere6
+        weight: 1
+      - path: BreadBaron_GrandmaThrowingTextured:pSphere6/BreadBaron_GrandmaThrowingTextured:transform16
+        weight: 1
+      - path: BreadBaron_GrandmaThrowingTextured:pTorus1
+        weight: 1
+      - path: BreadBaron_GrandmaThrowingTextured:pTorus1/BreadBaron_GrandmaThrowingTextured:transform6
+        weight: 1
+      - path: Gma:BreadBaron_GrandmaThrowingTextured:BreadBaron_Mace2:group
+        weight: 1
+      - path: Gma:BreadBaron_GrandmaThrowingTextured:BreadBaron_Mace2:group1
+        weight: 1
+      - path: Gma:BreadBaron_GrandmaThrowingTextured:BreadBaron_Mace2:group1/Gma:BreadBaron_GrandmaThrowingTextured:BreadBaron_Mace2:pasted__group
+        weight: 1
+      - path: Gma:BreadBaron_GrandmaThrowingTextured:BreadBaron_Mace2:group1/Gma:BreadBaron_GrandmaThrowingTextured:BreadBaron_Mace2:pasted__group/Gma:BreadBaron_GrandmaThrowingTextured:BreadBaron_Mace2:pasted__pasted__pCylinder2
+        weight: 1
+      - path: Gma:BreadBaron_GrandmaThrowingTextured:BreadBaron_Mace2:group1/Gma:BreadBaron_GrandmaThrowingTextured:BreadBaron_Mace2:pasted__group/Gma:BreadBaron_GrandmaThrowingTextured:BreadBaron_Mace2:pasted__pasted__pCylinder2/Gma:BreadBaron_GrandmaThrowingTextured:BreadBaron_Mace2:transform8
+        weight: 1
+      - path: Gma:BreadBaron_GrandmaThrowingTextured:BreadBaron_Mace2:group2
+        weight: 1
+      - path: Gma:BreadBaron_GrandmaThrowingTextured:BreadBaron_Mace2:group2/Gma:BreadBaron_GrandmaThrowingTextured:BreadBaron_Mace2:pasted__group1
+        weight: 1
+      - path: Gma:BreadBaron_GrandmaThrowingTextured:BreadBaron_Mace2:group2/Gma:BreadBaron_GrandmaThrowingTextured:BreadBaron_Mace2:pasted__group1/Gma:BreadBaron_GrandmaThrowingTextured:BreadBaron_Mace2:pasted__pasted__group
+        weight: 1
+      - path: Gma:BreadBaron_GrandmaThrowingTextured:BreadBaron_Mace2:group2/Gma:BreadBaron_GrandmaThrowingTextured:BreadBaron_Mace2:pasted__group1/Gma:BreadBaron_GrandmaThrowingTextured:BreadBaron_Mace2:pasted__pasted__group/Gma:BreadBaron_GrandmaThrowingTextured:BreadBaron_Mace2:pasted__pasted__pasted__pCylinder2
+        weight: 1
+      - path: Gma:BreadBaron_GrandmaThrowingTextured:BreadBaron_Mace2:group2/Gma:BreadBaron_GrandmaThrowingTextured:BreadBaron_Mace2:pasted__group1/Gma:BreadBaron_GrandmaThrowingTextured:BreadBaron_Mace2:pasted__pasted__group/Gma:BreadBaron_GrandmaThrowingTextured:BreadBaron_Mace2:pasted__pasted__pasted__pCylinder2/Gma:BreadBaron_GrandmaThrowingTextured:BreadBaron_Mace2:transform1
+        weight: 1
+      - path: Gma:BreadBaron_GrandmaThrowingTextured:BreadBaron_Mace2:group3
+        weight: 1
+      - path: Gma:BreadBaron_GrandmaThrowingTextured:BreadBaron_Mace2:group3/Gma:BreadBaron_GrandmaThrowingTextured:BreadBaron_Mace2:pasted__group1
+          1
+        weight: 1
+      - path: Gma:BreadBaron_GrandmaThrowingTextured:BreadBaron_Mace2:group3/Gma:BreadBaron_GrandmaThrowingTextured:BreadBaron_Mace2:pasted__group1
+          1/Gma:BreadBaron_GrandmaThrowingTextured:BreadBaron_Mace2:pasted__pasted__group
+          1
+        weight: 1
+      - path: Gma:BreadBaron_GrandmaThrowingTextured:BreadBaron_Mace2:group3/Gma:BreadBaron_GrandmaThrowingTextured:BreadBaron_Mace2:pasted__group1
+          1/Gma:BreadBaron_GrandmaThrowingTextured:BreadBaron_Mace2:pasted__pasted__group
+          1/Gma:BreadBaron_GrandmaThrowingTextured:BreadBaron_Mace2:pasted__pasted__pasted__pCylinder2
+          1
+        weight: 1
+      - path: Gma:BreadBaron_GrandmaThrowingTextured:BreadBaron_Mace2:group3/Gma:BreadBaron_GrandmaThrowingTextured:BreadBaron_Mace2:pasted__group1
+          1/Gma:BreadBaron_GrandmaThrowingTextured:BreadBaron_Mace2:pasted__pasted__group
+          1/Gma:BreadBaron_GrandmaThrowingTextured:BreadBaron_Mace2:pasted__pasted__pasted__pCylinder2
+          1/Gma:BreadBaron_GrandmaThrowingTextured:BreadBaron_Mace2:transform3
+        weight: 1
+      - path: Gma:BreadBaron_GrandmaThrowingTextured:BreadBaron_Mace2:group4
+        weight: 1
+      - path: Gma:BreadBaron_GrandmaThrowingTextured:BreadBaron_Mace2:group4/Gma:BreadBaron_GrandmaThrowingTextured:BreadBaron_Mace2:pasted__pCylinder2
+        weight: 1
+      - path: Gma:BreadBaron_GrandmaThrowingTextured:BreadBaron_Mace2:group4/Gma:BreadBaron_GrandmaThrowingTextured:BreadBaron_Mace2:pasted__pCylinder2/Gma:BreadBaron_GrandmaThrowingTextured:BreadBaron_Mace2:transform6
+        weight: 1
+      - path: Gma:BreadBaron_GrandmaThrowingTextured:BreadBaron_Mace2:pCylinder1
+        weight: 1
+      - path: Gma:BreadBaron_GrandmaThrowingTextured:BreadBaron_Mace2:pCylinder1/Gma:BreadBaron_GrandmaThrowingTextured:BreadBaron_Mace2:transform7
+        weight: 1
+      - path: Gma:BreadBaron_GrandmaThrowingTextured:BreadBaron_Mace2:pCylinder2
+        weight: 1
+      - path: Gma:BreadBaron_GrandmaThrowingTextured:BreadBaron_Mace2:pCylinder2/Gma:BreadBaron_GrandmaThrowingTextured:BreadBaron_Mace2:transform2
+        weight: 1
+      - path: Gma:BreadBaron_GrandmaThrowingTextured:BreadBaron_Mace2:pCylinder3
+        weight: 1
+      - path: Gma:BreadBaron_GrandmaThrowingTextured:BreadBaron_Mace2:pCylinder3/Gma:BreadBaron_GrandmaThrowingTextured:BreadBaron_Mace2:transform9
+        weight: 1
+      - path: Gma:BreadBaron_GrandmaThrowingTextured:BreadBaron_Mace2:pCylinder4
+        weight: 1
+      - path: Gma:BreadBaron_GrandmaThrowingTextured:BreadBaron_Mace2:pCylinder4/Gma:BreadBaron_GrandmaThrowingTextured:BreadBaron_Mace2:transform4
+        weight: 1
+      - path: Gma:BreadBaron_GrandmaThrowingTextured:BreadBaron_Mace2:pCylinder5
+        weight: 1
+      - path: Gma:BreadBaron_GrandmaThrowingTextured:BreadBaron_Mace2:pCylinder5/Gma:BreadBaron_GrandmaThrowingTextured:BreadBaron_Mace2:transform5
+        weight: 1
+      - path: Gma:BreadBaron_GrandmaThrowingTextured:group
+        weight: 1
+      - path: Gma:BreadBaron_GrandmaThrowingTextured:group/Gma:BreadBaron_GrandmaThrowingTextured:pasted__pSphere2
+        weight: 1
+      - path: Gma:BreadBaron_GrandmaThrowingTextured:group/Gma:BreadBaron_GrandmaThrowingTextured:pasted__pSphere2/Gma:BreadBaron_GrandmaThrowingTextured:transform4
+        weight: 1
+      - path: Gma:BreadBaron_GrandmaThrowingTextured:group1
+        weight: 1
+      - path: Gma:BreadBaron_GrandmaThrowingTextured:group1/Gma:BreadBaron_GrandmaThrowingTextured:pasted__pTorus1
+        weight: 1
+      - path: Gma:BreadBaron_GrandmaThrowingTextured:group1/Gma:BreadBaron_GrandmaThrowingTextured:pasted__pTorus1/Gma:BreadBaron_GrandmaThrowingTextured:transform7
+        weight: 1
+      - path: Gma:BreadBaron_GrandmaThrowingTextured:group2
+        weight: 1
+      - path: Gma:BreadBaron_GrandmaThrowingTextured:group3
+        weight: 1
+      - path: Gma:BreadBaron_GrandmaThrowingTextured:group3/Gma:BreadBaron_GrandmaThrowingTextured:pasted__pCylinder2
+        weight: 1
+      - path: Gma:BreadBaron_GrandmaThrowingTextured:group3/Gma:BreadBaron_GrandmaThrowingTextured:pasted__pCylinder2/Gma:BreadBaron_GrandmaThrowingTextured:transform9
+        weight: 1
+      - path: Gma:BreadBaron_GrandmaThrowingTextured:group4
+        weight: 1
+      - path: Gma:BreadBaron_GrandmaThrowingTextured:group5
+        weight: 1
+      - path: Gma:BreadBaron_GrandmaThrowingTextured:group5/Gma:BreadBaron_GrandmaThrowingTextured:pasted__pCylinder4
+        weight: 1
+      - path: Gma:BreadBaron_GrandmaThrowingTextured:group5/Gma:BreadBaron_GrandmaThrowingTextured:pasted__pCylinder4/Gma:BreadBaron_GrandmaThrowingTextured:transform12
+        weight: 1
+      - path: Gma:BreadBaron_GrandmaThrowingTextured:group5/Gma:BreadBaron_GrandmaThrowingTextured:pasted__pCylinder5
+        weight: 1
+      - path: Gma:BreadBaron_GrandmaThrowingTextured:group5/Gma:BreadBaron_GrandmaThrowingTextured:pasted__pCylinder5/Gma:BreadBaron_GrandmaThrowingTextured:transform11
+        weight: 1
+      - path: Gma:BreadBaron_GrandmaThrowingTextured:group6
+        weight: 1
+      - path: Gma:BreadBaron_GrandmaThrowingTextured:group7
+        weight: 1
+      - path: Gma:BreadBaron_GrandmaThrowingTextured:group7/Gma:BreadBaron_GrandmaThrowingTextured:pasted__pCube1
+        weight: 1
+      - path: Gma:BreadBaron_GrandmaThrowingTextured:group7/Gma:BreadBaron_GrandmaThrowingTextured:pasted__pCube1/Gma:BreadBaron_GrandmaThrowingTextured:transform15
+        weight: 1
+      - path: Gma:BreadBaron_GrandmaThrowingTextured:pCube1
+        weight: 1
+      - path: Gma:BreadBaron_GrandmaThrowingTextured:pCube1/Gma:BreadBaron_GrandmaThrowingTextured:transform14
+        weight: 1
+      - path: Gma:BreadBaron_GrandmaThrowingTextured:pCylinder1
+        weight: 1
+      - path: Gma:BreadBaron_GrandmaThrowingTextured:pCylinder1/Gma:BreadBaron_GrandmaThrowingTextured:transform1
+        weight: 1
+      - path: Gma:BreadBaron_GrandmaThrowingTextured:pCylinder2
+        weight: 1
+      - path: Gma:BreadBaron_GrandmaThrowingTextured:pCylinder2/Gma:BreadBaron_GrandmaThrowingTextured:transform8
+        weight: 1
+      - path: Gma:BreadBaron_GrandmaThrowingTextured:pSphere1
+        weight: 1
+      - path: Gma:BreadBaron_GrandmaThrowingTextured:pSphere1/Gma:BreadBaron_GrandmaThrowingTextured:transform2
+        weight: 1
+      - path: Gma:BreadBaron_GrandmaThrowingTextured:pSphere2
+        weight: 1
+      - path: Gma:BreadBaron_GrandmaThrowingTextured:pSphere2/Gma:BreadBaron_GrandmaThrowingTextured:transform3
+        weight: 1
+      - path: Gma:BreadBaron_GrandmaThrowingTextured:pSphere3
+        weight: 1
+      - path: Gma:BreadBaron_GrandmaThrowingTextured:pSphere3/Gma:BreadBaron_GrandmaThrowingTextured:transform5
+        weight: 1
+      - path: Gma:BreadBaron_GrandmaThrowingTextured:pSphere4
+        weight: 1
+      - path: Gma:BreadBaron_GrandmaThrowingTextured:pSphere4/Gma:BreadBaron_GrandmaThrowingTextured:transform10
+        weight: 1
+      - path: Gma:BreadBaron_GrandmaThrowingTextured:pSphere5
+        weight: 1
+      - path: Gma:BreadBaron_GrandmaThrowingTextured:pSphere5/Gma:BreadBaron_GrandmaThrowingTextured:transform13
+        weight: 1
+      - path: Gma:BreadBaron_GrandmaThrowingTextured:pSphere6
+        weight: 1
+      - path: Gma:BreadBaron_GrandmaThrowingTextured:pSphere6/Gma:BreadBaron_GrandmaThrowingTextured:transform16
+        weight: 1
+      - path: Gma:BreadBaron_GrandmaThrowingTextured:pTorus1
+        weight: 1
+      - path: Gma:BreadBaron_GrandmaThrowingTextured:pTorus1/Gma:BreadBaron_GrandmaThrowingTextured:transform6
+        weight: 1
+      - path: Gma:Gma3:BreadBaron_Mace2:group
+        weight: 1
+      - path: Gma:Gma3:BreadBaron_Mace2:group1
+        weight: 1
+      - path: Gma:Gma3:BreadBaron_Mace2:group1/Gma:Gma3:BreadBaron_Mace2:pasted__group
+        weight: 1
+      - path: Gma:Gma3:BreadBaron_Mace2:group1/Gma:Gma3:BreadBaron_Mace2:pasted__group/Gma:Gma3:BreadBaron_Mace2:pasted__pasted__pCylinder2
+        weight: 1
+      - path: Gma:Gma3:BreadBaron_Mace2:group1/Gma:Gma3:BreadBaron_Mace2:pasted__group/Gma:Gma3:BreadBaron_Mace2:pasted__pasted__pCylinder2/Gma:Gma3:BreadBaron_Mace2:transform8
+        weight: 1
+      - path: Gma:Gma3:BreadBaron_Mace2:group2
+        weight: 1
+      - path: Gma:Gma3:BreadBaron_Mace2:group2/Gma:Gma3:BreadBaron_Mace2:pasted__group1
+        weight: 1
+      - path: Gma:Gma3:BreadBaron_Mace2:group2/Gma:Gma3:BreadBaron_Mace2:pasted__group1/Gma:Gma3:BreadBaron_Mace2:pasted__pasted__group
+        weight: 1
+      - path: Gma:Gma3:BreadBaron_Mace2:group2/Gma:Gma3:BreadBaron_Mace2:pasted__group1/Gma:Gma3:BreadBaron_Mace2:pasted__pasted__group/Gma:Gma3:BreadBaron_Mace2:pasted__pasted__pasted__pCylinder2
+        weight: 1
+      - path: Gma:Gma3:BreadBaron_Mace2:group2/Gma:Gma3:BreadBaron_Mace2:pasted__group1/Gma:Gma3:BreadBaron_Mace2:pasted__pasted__group/Gma:Gma3:BreadBaron_Mace2:pasted__pasted__pasted__pCylinder2/Gma:Gma3:BreadBaron_Mace2:transform1
+        weight: 1
+      - path: Gma:Gma3:BreadBaron_Mace2:group3
+        weight: 1
+      - path: Gma:Gma3:BreadBaron_Mace2:group3/Gma:Gma3:BreadBaron_Mace2:pasted__group1
+          1
+        weight: 1
+      - path: Gma:Gma3:BreadBaron_Mace2:group3/Gma:Gma3:BreadBaron_Mace2:pasted__group1
+          1/Gma:Gma3:BreadBaron_Mace2:pasted__pasted__group 1
+        weight: 1
+      - path: Gma:Gma3:BreadBaron_Mace2:group3/Gma:Gma3:BreadBaron_Mace2:pasted__group1
+          1/Gma:Gma3:BreadBaron_Mace2:pasted__pasted__group 1/Gma:Gma3:BreadBaron_Mace2:pasted__pasted__pasted__pCylinder2
+          1
+        weight: 1
+      - path: Gma:Gma3:BreadBaron_Mace2:group3/Gma:Gma3:BreadBaron_Mace2:pasted__group1
+          1/Gma:Gma3:BreadBaron_Mace2:pasted__pasted__group 1/Gma:Gma3:BreadBaron_Mace2:pasted__pasted__pasted__pCylinder2
+          1/Gma:Gma3:BreadBaron_Mace2:transform3
+        weight: 1
+      - path: Gma:Gma3:BreadBaron_Mace2:group4
+        weight: 1
+      - path: Gma:Gma3:BreadBaron_Mace2:group4/Gma:Gma3:BreadBaron_Mace2:pasted__pCylinder2
+        weight: 1
+      - path: Gma:Gma3:BreadBaron_Mace2:group4/Gma:Gma3:BreadBaron_Mace2:pasted__pCylinder2/Gma:Gma3:BreadBaron_Mace2:transform6
+        weight: 1
+      - path: Gma:Gma3:BreadBaron_Mace2:pCylinder1
+        weight: 1
+      - path: Gma:Gma3:BreadBaron_Mace2:pCylinder1/Gma:Gma3:BreadBaron_Mace2:transform7
+        weight: 1
+      - path: Gma:Gma3:BreadBaron_Mace2:pCylinder2
+        weight: 1
+      - path: Gma:Gma3:BreadBaron_Mace2:pCylinder2/Gma:Gma3:BreadBaron_Mace2:transform2
+        weight: 1
+      - path: Gma:Gma3:BreadBaron_Mace2:pCylinder3
+        weight: 1
+      - path: Gma:Gma3:BreadBaron_Mace2:pCylinder3/Gma:Gma3:BreadBaron_Mace2:transform9
+        weight: 1
+      - path: Gma:Gma3:BreadBaron_Mace2:pCylinder4
+        weight: 1
+      - path: Gma:Gma3:BreadBaron_Mace2:pCylinder4/Gma:Gma3:BreadBaron_Mace2:transform4
+        weight: 1
+      - path: Gma:Gma3:BreadBaron_Mace2:pCylinder5
+        weight: 1
+      - path: Gma:Gma3:BreadBaron_Mace2:pCylinder5/Gma:Gma3:BreadBaron_Mace2:transform5
+        weight: 1
+      - path: Gma:Gma3:group2
+        weight: 1
+      - path: Gma:Gma3:group4
+        weight: 1
+      - path: Gma:Gma3:group6
+        weight: 1
+      - path: Gma:Gma3:modelMesh
+        weight: 1
+      - path: Gma:Gma3:modelMesh/Gma:Gma3:polySurface1 1
+        weight: 1
+      - path: Gma:Gma3:modelMesh/Gma:Gma3:polySurface1 1/Gma:Gma3:transform16
+        weight: 1
+      - path: Gma:Gma3:modelMesh/Gma:Gma3:polySurface2
+        weight: 1
+      - path: Gma:Gma3:modelMesh/Gma:Gma3:polySurface2/Gma:Gma3:transform15
+        weight: 1
+      - path: Gma:Gma3:modelMesh/Gma:Gma3:polySurface3
+        weight: 1
+      - path: Gma:Gma3:modelMesh/Gma:Gma3:polySurface3/Gma:Gma3:transform14
+        weight: 1
+      - path: Gma:Gma3:modelMesh/Gma:Gma3:polySurface4
+        weight: 1
+      - path: Gma:Gma3:modelMesh/Gma:Gma3:polySurface4/Gma:Gma3:transform13
+        weight: 1
+      - path: Gma:Gma3:modelMesh/Gma:Gma3:polySurface5
+        weight: 1
+      - path: Gma:Gma3:modelMesh/Gma:Gma3:polySurface5/Gma:Gma3:transform12
+        weight: 1
+      - path: Gma:Gma3:modelMesh/Gma:Gma3:polySurface6
+        weight: 1
+      - path: Gma:Gma3:modelMesh/Gma:Gma3:polySurface6/Gma:Gma3:transform11
+        weight: 1
+      - path: Gma:Gma3:modelMesh/Gma:Gma3:polySurface7
+        weight: 1
+      - path: Gma:Gma3:modelMesh/Gma:Gma3:polySurface7/Gma:Gma3:transform10
+        weight: 1
+      - path: Gma:Gma3:modelMesh/Gma:Gma3:polySurface8
+        weight: 1
+      - path: Gma:Gma3:modelMesh/Gma:Gma3:polySurface8/Gma:Gma3:transform9
+        weight: 1
+      - path: Gma:Gma3:modelMesh/Gma:Gma3:polySurface9
+        weight: 1
+      - path: Gma:Gma3:modelMesh/Gma:Gma3:polySurface9/Gma:Gma3:transform8
+        weight: 1
+      - path: Gma:Gma3:modelMesh/Gma:Gma3:polySurface10
+        weight: 1
+      - path: Gma:Gma3:modelMesh/Gma:Gma3:polySurface10/Gma:Gma3:transform7
+        weight: 1
+      - path: Gma:Gma3:modelMesh/Gma:Gma3:polySurface11
+        weight: 1
+      - path: Gma:Gma3:modelMesh/Gma:Gma3:polySurface11/Gma:Gma3:transform6
+        weight: 1
+      - path: Gma:Gma3:modelMesh/Gma:Gma3:polySurface12
+        weight: 1
+      - path: Gma:Gma3:modelMesh/Gma:Gma3:polySurface12/Gma:Gma3:transform5
+        weight: 1
+      - path: Gma:Gma3:modelMesh/Gma:Gma3:polySurface13
+        weight: 1
+      - path: Gma:Gma3:modelMesh/Gma:Gma3:polySurface13/Gma:Gma3:transform4
+        weight: 1
+      - path: Gma:Gma3:modelMesh/Gma:Gma3:polySurface14
+        weight: 1
+      - path: Gma:Gma3:modelMesh/Gma:Gma3:polySurface14/Gma:Gma3:transform3
+        weight: 1
+      - path: Gma:Gma3:modelMesh/Gma:Gma3:polySurface15
+        weight: 1
+      - path: Gma:Gma3:modelMesh/Gma:Gma3:polySurface15/Gma:Gma3:transform2
+        weight: 1
+      - path: Gma:Gma3:modelMesh/Gma:Gma3:polySurface16
+        weight: 1
+      - path: Gma:Gma3:modelMesh/Gma:Gma3:polySurface16/Gma:Gma3:transform1
+        weight: 1
+      - path: Gma:Gma3:polySurface1
+        weight: 1
+      - path: Gma:Gma3:polySurface1/Gma:Gma3:polySurface17
+        weight: 1
+      - path: Gma:Gma3:polySurface1/Gma:Gma3:polySurface17/Gma:Gma3:transform33
+        weight: 1
+      - path: Gma:Gma3:polySurface1/Gma:Gma3:polySurface18
+        weight: 1
+      - path: Gma:Gma3:polySurface1/Gma:Gma3:polySurface18/Gma:Gma3:transform32
+        weight: 1
+      - path: Gma:Gma3:polySurface1/Gma:Gma3:polySurface19
+        weight: 1
+      - path: Gma:Gma3:polySurface1/Gma:Gma3:polySurface19/Gma:Gma3:transform31
+        weight: 1
+      - path: Gma:Gma3:polySurface1/Gma:Gma3:polySurface20
+        weight: 1
+      - path: Gma:Gma3:polySurface1/Gma:Gma3:polySurface20/Gma:Gma3:transform30
+        weight: 1
+      - path: Gma:Gma3:polySurface1/Gma:Gma3:polySurface21
+        weight: 1
+      - path: Gma:Gma3:polySurface1/Gma:Gma3:polySurface21/Gma:Gma3:transform29
+        weight: 1
+      - path: Gma:Gma3:polySurface1/Gma:Gma3:polySurface22
+        weight: 1
+      - path: Gma:Gma3:polySurface1/Gma:Gma3:polySurface22/Gma:Gma3:transform28
+        weight: 1
+      - path: Gma:Gma3:polySurface1/Gma:Gma3:polySurface23
+        weight: 1
+      - path: Gma:Gma3:polySurface1/Gma:Gma3:polySurface23/Gma:Gma3:transform27
+        weight: 1
+      - path: Gma:Gma3:polySurface1/Gma:Gma3:polySurface24
+        weight: 1
+      - path: Gma:Gma3:polySurface1/Gma:Gma3:polySurface24/Gma:Gma3:transform26
+        weight: 1
+      - path: Gma:Gma3:polySurface1/Gma:Gma3:polySurface25
+        weight: 1
+      - path: Gma:Gma3:polySurface1/Gma:Gma3:polySurface25/Gma:Gma3:transform25
+        weight: 1
+      - path: Gma:Gma3:polySurface1/Gma:Gma3:polySurface26
+        weight: 1
+      - path: Gma:Gma3:polySurface1/Gma:Gma3:polySurface26/Gma:Gma3:transform24
+        weight: 1
+      - path: Gma:Gma3:polySurface1/Gma:Gma3:polySurface27
+        weight: 1
+      - path: Gma:Gma3:polySurface1/Gma:Gma3:polySurface27/Gma:Gma3:transform23
+        weight: 1
+      - path: Gma:Gma3:polySurface1/Gma:Gma3:polySurface28
+        weight: 1
+      - path: Gma:Gma3:polySurface1/Gma:Gma3:polySurface28/Gma:Gma3:transform22
+        weight: 1
+      - path: Gma:Gma3:polySurface1/Gma:Gma3:polySurface29
+        weight: 1
+      - path: Gma:Gma3:polySurface1/Gma:Gma3:polySurface29/Gma:Gma3:transform21
+        weight: 1
+      - path: Gma:Gma3:polySurface1/Gma:Gma3:polySurface30
+        weight: 1
+      - path: Gma:Gma3:polySurface1/Gma:Gma3:polySurface30/Gma:Gma3:transform20
+        weight: 1
+      - path: Gma:Gma3:polySurface1/Gma:Gma3:polySurface31
+        weight: 1
+      - path: Gma:Gma3:polySurface1/Gma:Gma3:polySurface31/Gma:Gma3:transform19
+        weight: 1
+      - path: Gma:Gma3:polySurface1/Gma:Gma3:polySurface32
+        weight: 1
+      - path: Gma:Gma3:polySurface1/Gma:Gma3:polySurface32/Gma:Gma3:transform18
+        weight: 1
+      - path: Gma:Gma3:polySurface1/Gma:Gma3:transform17
+        weight: 1
+      - path: Gma:Gma3:polySurface33
+        weight: 1
+      - path: Gma:Gma3:Root
+        weight: 1
+      - path: Gma:Gma3:Root/Gma:Gma3:L_leg
+        weight: 1
+      - path: Gma:Gma3:Root/Gma:Gma3:L_leg/Gma:Gma3:joint3
+        weight: 1
+      - path: Gma:Gma3:Root/Gma:Gma3:L_leg/Gma:Gma3:joint3/Gma:Gma3:L_knee
+        weight: 1
+      - path: Gma:Gma3:Root/Gma:Gma3:L_leg/Gma:Gma3:joint3/Gma:Gma3:L_knee/Gma:Gma3:L_ankle
+        weight: 1
+      - path: Gma:Gma3:Root/Gma:Gma3:L_leg/Gma:Gma3:joint3/Gma:Gma3:L_knee/Gma:Gma3:L_ankle/Gma:Gma3:L_foot
+        weight: 1
+      - path: Gma:Gma3:Root/Gma:Gma3:L_leg/Gma:Gma3:joint3/Gma:Gma3:L_knee/Gma:Gma3:L_ankle/Gma:Gma3:L_foot/Gma:Gma3:L_toe
+        weight: 1
+      - path: Gma:Gma3:Root/Gma:Gma3:R_leg
+        weight: 1
+      - path: Gma:Gma3:Root/Gma:Gma3:R_leg/Gma:Gma3:joint3 1
+        weight: 1
+      - path: Gma:Gma3:Root/Gma:Gma3:R_leg/Gma:Gma3:joint3 1/Gma:Gma3:R_knee
+        weight: 1
+      - path: Gma:Gma3:Root/Gma:Gma3:R_leg/Gma:Gma3:joint3 1/Gma:Gma3:R_knee/Gma:Gma3:R_ankle
+        weight: 1
+      - path: Gma:Gma3:Root/Gma:Gma3:R_leg/Gma:Gma3:joint3 1/Gma:Gma3:R_knee/Gma:Gma3:R_ankle/Gma:Gma3:R_foot
+        weight: 1
+      - path: Gma:Gma3:Root/Gma:Gma3:R_leg/Gma:Gma3:joint3 1/Gma:Gma3:R_knee/Gma:Gma3:R_ankle/Gma:Gma3:R_foot/Gma:Gma3:R_toe
+        weight: 1
+      - path: Gma:Gma3:Root/Gma:Gma3:Spine1
+        weight: 1
+      - path: Gma:Gma3:Root/Gma:Gma3:Spine1/Gma:Gma3:Spine2
+        weight: 1
+      - path: Gma:Gma3:Root/Gma:Gma3:Spine1/Gma:Gma3:Spine2/Gma:Gma3:L_clav
+        weight: 1
+      - path: Gma:Gma3:Root/Gma:Gma3:Spine1/Gma:Gma3:Spine2/Gma:Gma3:L_clav/Gma:Gma3:L_shoulder
+        weight: 1
+      - path: Gma:Gma3:Root/Gma:Gma3:Spine1/Gma:Gma3:Spine2/Gma:Gma3:L_clav/Gma:Gma3:L_shoulder/Gma:Gma3:joint1
+        weight: 1
+      - path: Gma:Gma3:Root/Gma:Gma3:Spine1/Gma:Gma3:Spine2/Gma:Gma3:L_clav/Gma:Gma3:L_shoulder/Gma:Gma3:joint1/Gma:Gma3:L_elbow
+        weight: 1
+      - path: Gma:Gma3:Root/Gma:Gma3:Spine1/Gma:Gma3:Spine2/Gma:Gma3:L_clav/Gma:Gma3:L_shoulder/Gma:Gma3:joint1/Gma:Gma3:L_elbow/Gma:Gma3:joint2
+        weight: 1
+      - path: Gma:Gma3:Root/Gma:Gma3:Spine1/Gma:Gma3:Spine2/Gma:Gma3:L_clav/Gma:Gma3:L_shoulder/Gma:Gma3:joint1/Gma:Gma3:L_elbow/Gma:Gma3:joint2/Gma:Gma3:L_wrist
+        weight: 1
+      - path: Gma:Gma3:Root/Gma:Gma3:Spine1/Gma:Gma3:Spine2/Gma:Gma3:R_clav
+        weight: 1
+      - path: Gma:Gma3:Root/Gma:Gma3:Spine1/Gma:Gma3:Spine2/Gma:Gma3:R_clav/Gma:Gma3:R_shoulder
+        weight: 1
+      - path: Gma:Gma3:Root/Gma:Gma3:Spine1/Gma:Gma3:Spine2/Gma:Gma3:R_clav/Gma:Gma3:R_shoulder/Gma:Gma3:joint1
+          1
+        weight: 1
+      - path: Gma:Gma3:Root/Gma:Gma3:Spine1/Gma:Gma3:Spine2/Gma:Gma3:R_clav/Gma:Gma3:R_shoulder/Gma:Gma3:joint1
+          1/Gma:Gma3:R_elbow
+        weight: 1
+      - path: Gma:Gma3:Root/Gma:Gma3:Spine1/Gma:Gma3:Spine2/Gma:Gma3:R_clav/Gma:Gma3:R_shoulder/Gma:Gma3:joint1
+          1/Gma:Gma3:R_elbow/Gma:Gma3:joint2 1
+        weight: 1
+      - path: Gma:Gma3:Root/Gma:Gma3:Spine1/Gma:Gma3:Spine2/Gma:Gma3:R_clav/Gma:Gma3:R_shoulder/Gma:Gma3:joint1
+          1/Gma:Gma3:R_elbow/Gma:Gma3:joint2 1/Gma:Gma3:R_wrist
+        weight: 1
+      - path: Gma:Gma3:Root/Gma:Gma3:Spine1/Gma:Gma3:Spine2/Gma:Gma3:R_clav/Gma:Gma3:R_shoulder/Gma:Gma3:joint1
+          1/Gma:Gma3:R_elbow/Gma:Gma3:joint2 1/Gma:Gma3:R_wrist/Gma:Gma3:BreadBaron_Cane:pCylinder1
+        weight: 1
+      - path: Gma:Gma3:Root/Gma:Gma3:Spine1/Gma:Gma3:Spine2/Gma:Gma3:Spine3
+        weight: 1
+      - path: Gma:Gma3:Root/Gma:Gma3:Spine1/Gma:Gma3:Spine2/Gma:Gma3:Spine3/Gma:Gma3:Spine4
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

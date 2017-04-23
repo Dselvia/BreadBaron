@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: d26e00c6963b37344b3692e763beb19d
+timeCreated: 1491106573
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - deathClip: {instanceID: 0}
+  - PowerUp: {instanceID: 0}
+  - CookiePickUp: {instanceID: 0}
+  - Buff: {fileID: 1518627835261738, guid: b5a6399c849dec442956a5cad2a1f072, type: 2}
+  - buffScript: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

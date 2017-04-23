@@ -1,0 +1,476 @@
+fileFormatVersion: 2
+guid: 8561131e0a80a40409d9ebfe64fd3c7d
+timeCreated: 1492291189
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Buttocksjoint9
+    100004: IKTrashandBackCurve
+    100006: joint3
+    100008: LidCtrl
+    100010: Lower_trash_ctrl
+    100012: LowerButtocksfootjoint8
+    100014: Lowerspinehipjoint10
+    100016: LowerTrashCluster
+    100018: MiddleSpinejoint11
+    100020: polySurface46
+    100022: polySurface47
+    100024: polySurface52
+    100026: polySurface54
+    100028: polySurface54 1
+    100030: polySurface55
+    100032: polySurface56
+    100034: polySurface57
+    100036: polySurface58
+    100038: polySurface59
+    100040: polySurface60
+    100042: polySurface61
+    100044: polySurface63
+    100046: polySurface64
+    100048: polySurface65
+    100050: polySurface66
+    100052: polySurface66 1
+    100054: polySurface67
+    100056: polySurface74
+    100058: polySurface74 1
+    100060: polySurface75
+    100062: polySurface82
+    100064: polySurface9
+    100066: polySurface90
+    100068: Rig_Group
+    100070: Skeleton_Group
+    100072: SuperMover_Ctrl
+    100074: transform35
+    100076: transform36
+    100078: transform37
+    100080: transform38
+    100082: transform39
+    100084: transform40
+    100086: transform41
+    100088: transform43
+    100090: transform44
+    100092: transform45
+    100094: transform46
+    100096: transform49
+    100098: transform50
+    100100: transform51
+    100102: transform52
+    100104: transform71
+    100106: TrashLidTopJoint15
+    100108: UpperLid_and_top_head_ctrl
+    100110: UpperTrashCluster
+    400000: //RootNode
+    400002: Buttocksjoint9
+    400004: IKTrashandBackCurve
+    400006: joint3
+    400008: LidCtrl
+    400010: Lower_trash_ctrl
+    400012: LowerButtocksfootjoint8
+    400014: Lowerspinehipjoint10
+    400016: LowerTrashCluster
+    400018: MiddleSpinejoint11
+    400020: polySurface46
+    400022: polySurface47
+    400024: polySurface52
+    400026: polySurface54
+    400028: polySurface54 1
+    400030: polySurface55
+    400032: polySurface56
+    400034: polySurface57
+    400036: polySurface58
+    400038: polySurface59
+    400040: polySurface60
+    400042: polySurface61
+    400044: polySurface63
+    400046: polySurface64
+    400048: polySurface65
+    400050: polySurface66
+    400052: polySurface66 1
+    400054: polySurface67
+    400056: polySurface74
+    400058: polySurface74 1
+    400060: polySurface75
+    400062: polySurface82
+    400064: polySurface9
+    400066: polySurface90
+    400068: Rig_Group
+    400070: Skeleton_Group
+    400072: SuperMover_Ctrl
+    400074: transform35
+    400076: transform36
+    400078: transform37
+    400080: transform38
+    400082: transform39
+    400084: transform40
+    400086: transform41
+    400088: transform43
+    400090: transform44
+    400092: transform45
+    400094: transform46
+    400096: transform49
+    400098: transform50
+    400100: transform51
+    400102: transform52
+    400104: transform71
+    400106: TrashLidTopJoint15
+    400108: UpperLid_and_top_head_ctrl
+    400110: UpperTrashCluster
+    2300000: polySurface90
+    3300000: polySurface90
+    4300000: polySurface82
+    4300002: polySurface90
+    6400000: polySurface90
+    7400000: Attacking
+    7400002: Idle
+    9500000: //RootNode
+    13700000: polySurface82
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Idle
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 2
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: polySurface9
+        weight: 1
+      - path: polySurface9/polySurface74 1
+        weight: 1
+      - path: polySurface9/polySurface74 1/transform51
+        weight: 1
+      - path: polySurface9/polySurface75
+        weight: 1
+      - path: polySurface9/polySurface75/transform50
+        weight: 1
+      - path: polySurface9/transform49
+        weight: 1
+      - path: polySurface46
+        weight: 1
+      - path: polySurface46/polySurface65
+        weight: 1
+      - path: polySurface46/polySurface66 1
+        weight: 1
+      - path: polySurface46/polySurface66 1/transform45
+        weight: 1
+      - path: polySurface46/polySurface67
+        weight: 1
+      - path: polySurface46/polySurface67/transform44
+        weight: 1
+      - path: polySurface46/transform43
+        weight: 1
+      - path: polySurface47
+        weight: 1
+      - path: polySurface47/polySurface54 1
+        weight: 1
+      - path: polySurface47/polySurface55
+        weight: 1
+      - path: polySurface47/polySurface56
+        weight: 1
+      - path: polySurface47/polySurface57
+        weight: 1
+      - path: polySurface52
+        weight: 1
+      - path: polySurface52/polySurface63
+        weight: 1
+      - path: polySurface52/polySurface63/transform41
+        weight: 1
+      - path: polySurface52/polySurface64
+        weight: 1
+      - path: polySurface52/polySurface64/transform40
+        weight: 1
+      - path: polySurface52/transform35
+        weight: 1
+      - path: polySurface54
+        weight: 1
+      - path: polySurface54/polySurface58
+        weight: 1
+      - path: polySurface54/polySurface58/transform36
+        weight: 1
+      - path: polySurface54/polySurface59
+        weight: 1
+      - path: polySurface54/polySurface59/transform37
+        weight: 1
+      - path: polySurface54/polySurface60
+        weight: 1
+      - path: polySurface54/polySurface60/transform39
+        weight: 1
+      - path: polySurface54/polySurface61
+        weight: 1
+      - path: polySurface54/polySurface61/transform38
+        weight: 1
+      - path: polySurface66
+        weight: 1
+      - path: polySurface66/transform46
+        weight: 1
+      - path: polySurface74
+        weight: 1
+      - path: polySurface74/transform52
+        weight: 1
+      - path: polySurface82
+        weight: 1
+      - path: polySurface82/transform71
+        weight: 1
+      - path: Rig_Group
+        weight: 1
+      - path: Rig_Group/IKTrashandBackCurve
+        weight: 1
+      - path: Skeleton_Group
+        weight: 1
+      - path: Skeleton_Group/joint3
+        weight: 1
+      - path: Skeleton_Group/joint3/LowerButtocksfootjoint8
+        weight: 1
+      - path: Skeleton_Group/joint3/LowerButtocksfootjoint8/Buttocksjoint9
+        weight: 1
+      - path: Skeleton_Group/joint3/LowerButtocksfootjoint8/Buttocksjoint9/Lowerspinehipjoint10
+        weight: 1
+      - path: Skeleton_Group/joint3/LowerButtocksfootjoint8/Buttocksjoint9/Lowerspinehipjoint10/MiddleSpinejoint11
+        weight: 1
+      - path: Skeleton_Group/joint3/LowerButtocksfootjoint8/Buttocksjoint9/Lowerspinehipjoint10/MiddleSpinejoint11/TrashLidTopJoint15
+        weight: 1
+      - path: Skeleton_Group/joint3/polySurface90
+        weight: 1
+      - path: SuperMover_Ctrl
+        weight: 1
+      - path: SuperMover_Ctrl/LidCtrl
+        weight: 1
+      - path: SuperMover_Ctrl/LidCtrl/Lower_trash_ctrl
+        weight: 1
+      - path: SuperMover_Ctrl/LidCtrl/Lower_trash_ctrl/LowerTrashCluster
+        weight: 1
+      - path: SuperMover_Ctrl/LidCtrl/UpperLid_and_top_head_ctrl
+        weight: 1
+      - path: SuperMover_Ctrl/LidCtrl/UpperLid_and_top_head_ctrl/UpperTrashCluster
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Attacking
+      takeName: Take 001
+      firstFrame: 2
+      lastFrame: 72
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: polySurface9
+        weight: 1
+      - path: polySurface9/polySurface74 1
+        weight: 1
+      - path: polySurface9/polySurface74 1/transform51
+        weight: 1
+      - path: polySurface9/polySurface75
+        weight: 1
+      - path: polySurface9/polySurface75/transform50
+        weight: 1
+      - path: polySurface9/transform49
+        weight: 1
+      - path: polySurface46
+        weight: 1
+      - path: polySurface46/polySurface65
+        weight: 1
+      - path: polySurface46/polySurface66 1
+        weight: 1
+      - path: polySurface46/polySurface66 1/transform45
+        weight: 1
+      - path: polySurface46/polySurface67
+        weight: 1
+      - path: polySurface46/polySurface67/transform44
+        weight: 1
+      - path: polySurface46/transform43
+        weight: 1
+      - path: polySurface47
+        weight: 1
+      - path: polySurface47/polySurface54 1
+        weight: 1
+      - path: polySurface47/polySurface55
+        weight: 1
+      - path: polySurface47/polySurface56
+        weight: 1
+      - path: polySurface47/polySurface57
+        weight: 1
+      - path: polySurface52
+        weight: 1
+      - path: polySurface52/polySurface63
+        weight: 1
+      - path: polySurface52/polySurface63/transform41
+        weight: 1
+      - path: polySurface52/polySurface64
+        weight: 1
+      - path: polySurface52/polySurface64/transform40
+        weight: 1
+      - path: polySurface52/transform35
+        weight: 1
+      - path: polySurface54
+        weight: 1
+      - path: polySurface54/polySurface58
+        weight: 1
+      - path: polySurface54/polySurface58/transform36
+        weight: 1
+      - path: polySurface54/polySurface59
+        weight: 1
+      - path: polySurface54/polySurface59/transform37
+        weight: 1
+      - path: polySurface54/polySurface60
+        weight: 1
+      - path: polySurface54/polySurface60/transform39
+        weight: 1
+      - path: polySurface54/polySurface61
+        weight: 1
+      - path: polySurface54/polySurface61/transform38
+        weight: 1
+      - path: polySurface66
+        weight: 1
+      - path: polySurface66/transform46
+        weight: 1
+      - path: polySurface74
+        weight: 1
+      - path: polySurface74/transform52
+        weight: 1
+      - path: polySurface82
+        weight: 1
+      - path: polySurface82/transform71
+        weight: 1
+      - path: Rig_Group
+        weight: 1
+      - path: Rig_Group/IKTrashandBackCurve
+        weight: 1
+      - path: Skeleton_Group
+        weight: 1
+      - path: Skeleton_Group/joint3
+        weight: 1
+      - path: Skeleton_Group/joint3/LowerButtocksfootjoint8
+        weight: 1
+      - path: Skeleton_Group/joint3/LowerButtocksfootjoint8/Buttocksjoint9
+        weight: 1
+      - path: Skeleton_Group/joint3/LowerButtocksfootjoint8/Buttocksjoint9/Lowerspinehipjoint10
+        weight: 1
+      - path: Skeleton_Group/joint3/LowerButtocksfootjoint8/Buttocksjoint9/Lowerspinehipjoint10/MiddleSpinejoint11
+        weight: 1
+      - path: Skeleton_Group/joint3/LowerButtocksfootjoint8/Buttocksjoint9/Lowerspinehipjoint10/MiddleSpinejoint11/TrashLidTopJoint15
+        weight: 1
+      - path: Skeleton_Group/joint3/polySurface90
+        weight: 1
+      - path: SuperMover_Ctrl
+        weight: 1
+      - path: SuperMover_Ctrl/LidCtrl
+        weight: 1
+      - path: SuperMover_Ctrl/LidCtrl/Lower_trash_ctrl
+        weight: 1
+      - path: SuperMover_Ctrl/LidCtrl/Lower_trash_ctrl/LowerTrashCluster
+        weight: 1
+      - path: SuperMover_Ctrl/LidCtrl/UpperLid_and_top_head_ctrl
+        weight: 1
+      - path: SuperMover_Ctrl/LidCtrl/UpperLid_and_top_head_ctrl/UpperTrashCluster
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 45
+    meshCompression: 0
+    addColliders: 1
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

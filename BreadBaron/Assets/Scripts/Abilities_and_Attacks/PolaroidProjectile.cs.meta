@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 71a18cc03edda0942a4797dcd035fbce
+timeCreated: 1492042137
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - gunAudio: {instanceID: 0}
+  - something: {instanceID: 0}
+  - Polaroid_Emitter: {fileID: 1714527640614110, guid: 34160bcb620922846b174ec981531949,
+      type: 2}
+  - BreadBaron_Polaroid: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
